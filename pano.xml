@@ -1,0 +1,1234 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tour start="node52" apprev="18105" appversion="6.1.14">
+  <panorama id="node52">
+    <input width="640" levelbias="0.400" levelbiashidpi="1.000" levelingroll="0" levelingpitch="0" flat="1" leveltileurl="tiles/node52/cf_%c/l_%l/c_%x/tile_%y.jpg" leveltilesize="510" height="905" overlap="1" cylinder="1">
+      <level width="640" preload="0" predecode="0" height="905"/>
+      <level width="320" preload="1" predecode="1" height="452"/>
+      <preview color="0x808080"/>
+    </input>
+    <view pannorth="0" fovmode="0">
+      <start projection="4" tilt="30.43" fov="37.18" pan="0"/>
+      <flyin projection="9" tilt="-90" fov="170" pan="0"/>
+      <min tilt="-90" fovpixel="2" pan="0"/>
+      <max fovfisheye="360" tilt="90" fovstereographic="270" scaletofit="0" fov="120" pan="360"/>
+    </view>
+    <userdata datetime="2/2/2020 9:03 AM" longitude="" heading="0" description="" comment="" info="" nodeid="node52" copyright="" source="" title="منو اصلی" latitude="" customnodeid="" author="" tags="Program Files"/>
+    <hotspots width="180" height="20" wordwrap="1">
+      <label width="180" background="1" backgroundcolor="0xffffff" textalpha="1" bordercolor="0x000000" borderalpha="1" backgroundalpha="1" enabled="1" borderradius="1" height="20" border="1" wordwrap="1" textcolor="0x000000"/>
+      <polystyle mode="0" backgroundcolor="0x0000ff" handcursor="1" bordercolor="0x0000ff" borderalpha="1" backgroundalpha="0.25098"/>
+      <polyhotspot description="" target="" id="Poly01" url="{node47}" title="">
+        <polystring>-19.36/34.45|18.12/34.45|17.95/23.14|-19.45/23.22</polystring>
+      </polyhotspot>
+      <polyhotspot description="" target="" id="Poly02" url="{node48}" title="تصویر هوایی محل احداث دانشگاه فرهنگیان (1)">
+        <polystring>-19.54/19.6|18.12/19.51|17.95/8.19|-19.45/8.28</polystring>
+      </polyhotspot>
+    </hotspots>
+    <media>
+      <sound mode="0" loop="0" tilt="-1.000" ambientlevel="0.000" id="_background" pansize="10.000" tiltsize="10.000" startmutedmobile="0" field="90.000" pan="-1.000" nodechangekeep="0" level="0.700">
+        <source url="media/05 Shoore Eshgh, Pt. 2 (2).mp3"/>
+      </sound>
+    </media>
+    <transition blendtime="1" zoomafteroutfov="20" zoomout="0" zoomfov="20" type="crossdissolve" enabled="1" zoomspeed="2" zoomafterinfov="90" zoomoutpause="1" blendcolor="0x000000" zoomin="0" softedge="0"/>
+    <animation syncanimationwithvideo="0" animsequence="Animation01" useinautorotation="0"/>
+    <control dblclickfullscreen="0" speedwheel="1" invertcontrol="1" invertwheel="0" sensitivity="8" contextfullscreen="1" lockedkeyboard="0" contextvr="1" contextprojections="0" lockedmouse="0" hideabout="0" lockedkeyboardzoom="0" simulatemass="1" rubberband="0" lockedwheel="0"/>
+  </panorama>
+  <panorama id="node47">
+    <input width="1280" levelbias="0.400" levelbiashidpi="1.000" levelingroll="0" levelingpitch="0" flat="1" leveltileurl="tiles/node47/cf_%c/l_%l/c_%x/tile_%y.jpg" leveltilesize="510" height="1280" overlap="1" cylinder="1">
+      <level width="1280" preload="0" predecode="0" height="1280"/>
+      <level width="640" preload="0" predecode="0" height="640"/>
+      <level width="320" preload="1" predecode="1" height="320"/>
+      <preview color="0x808080"/>
+    </input>
+    <view pannorth="0" fovmode="0">
+      <start projection="4" tilt="31.34" fov="37.31" pan="0"/>
+      <flyin projection="9" tilt="-90" fov="170" pan="0"/>
+      <min tilt="-90" fovpixel="2" pan="0"/>
+      <max fovfisheye="360" tilt="90" fovstereographic="270" scaletofit="0" fov="120" pan="360"/>
+    </view>
+    <userdata datetime="5/20/2022 7:39 PM" longitude="" heading="0" description="" comment="" info="" nodeid="node47" copyright="" source="" title="" latitude="" customnodeid="" author="" tags="Program Files"/>
+    <hotspots width="180" height="20" wordwrap="1">
+      <label width="180" background="1" backgroundcolor="0xffffff" textalpha="1" bordercolor="0x000000" borderalpha="1" backgroundalpha="1" enabled="1" borderradius="1" height="20" border="1" wordwrap="1" textcolor="0x000000"/>
+      <polystyle mode="0" backgroundcolor="0x0000ff" handcursor="1" bordercolor="0x0000ff" borderalpha="1" backgroundalpha="0.25098"/>
+      <hotspot tilt="25.92" description="" target="" id="Point01" url="{node1}" skinid="ht_node" title="ورودی ساختمان 1" pan="1.12"/>
+      <hotspot tilt="-6.98" description="" target="" id="Point02" url="{node37}" skinid="ht_node" title="نقشه برجسته استان فارس آ" pan="20.89"/>
+      <hotspot tilt="-17.44" description="" target="" id="Point03" url="{node40}" skinid="ht_node" title="میدان پژوهشکده معلم" pan="17.28"/>
+      <hotspot tilt="-19.55" description="" target="" id="Point04" url="{node43}" skinid="ht_node" title="کتاخانه پژوهشکده معلم آ" pan="25.12"/>
+      <hotspot tilt="-32.96" description="" target="" id="Point05" url="{node44}" skinid="ht_node" title="آزمایشگاه سلولهای بنیادی" pan="12.44"/>
+      <hotspot tilt="-31.1" description="" target="" id="Point06" url="{node46}" skinid="ht_node" title="سالن ورودی ساختمان شماره 4" pan="-5.22"/>
+      <polyhotspot description="" target="" id="Poly01" url="{node52}" title="منو اصلی">
+        <polystring>-5.8/43.46|5.66/43.46|5.59/36.64|-5.8/36.71</polystring>
+      </polyhotspot>
+    </hotspots>
+    <media/>
+    <transition blendtime="1" zoomafteroutfov="20" zoomout="0" zoomfov="20" type="crossdissolve" enabled="1" zoomspeed="2" zoomafterinfov="90" zoomoutpause="1" blendcolor="0x000000" zoomin="0" softedge="0"/>
+    <animation syncanimationwithvideo="0" animsequence="Animation01" useinautorotation="0"/>
+    <control dblclickfullscreen="0" speedwheel="1" invertcontrol="1" invertwheel="0" sensitivity="8" contextfullscreen="1" lockedkeyboard="0" contextvr="1" contextprojections="0" lockedmouse="0" hideabout="0" lockedkeyboardzoom="0" simulatemass="1" rubberband="0" lockedwheel="0"/>
+  </panorama>
+  <panorama id="node1">
+    <input width="1539" levelbias="0.400" levelbiashidpi="1.000" levelingroll="0" levelingpitch="0" leveltileurl="tiles/node1/cf_%c/l_%l/c_%x/tile_%y.jpg" leveltilesize="510" height="1539" overlap="1">
+      <level width="1539" preload="0" predecode="0" height="1539"/>
+      <level width="769" preload="0" predecode="0" height="769"/>
+      <level width="384" preload="1" predecode="1" height="384"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view pannorth="0" fovmode="0">
+      <start projection="4" tilt="0" fov="69.13" pan="49.39"/>
+      <flyin projection="9" tilt="-90" fov="170" pan="0"/>
+      <min tilt="-34.5647" fovpixel="2" pan="-180"/>
+      <max fovfisheye="360" tilt="34.5647" fovstereographic="270" fov="120" pan="180"/>
+    </view>
+    <userdata datetime="5/7/2022 9:13 AM" longitude="" heading="0" description="" comment="" info="" nodeid="node1" copyright="" source="" title="ورودی ساختمان 1" latitude="" customnodeid="" author="" tags="V1.0"/>
+    <hotspots width="180" height="20" wordwrap="1">
+      <label width="180" background="1" backgroundcolor="0xffffff" textalpha="1" bordercolor="0x000000" borderalpha="1" backgroundalpha="1" enabled="1" borderradius="1" height="20" border="1" wordwrap="1" textcolor="0x000000"/>
+      <polystyle mode="0" backgroundcolor="0x0000ff" handcursor="1" bordercolor="0x0000ff" borderalpha="1" backgroundalpha="0.25098"/>
+      <hotspot tilt="-2.37" description="" target="" id="Point01" url="{node2}" skinid="ht_node" title="تالار طبقه 1 ورودی" pan="-312.71"/>
+      <hotspot tilt="-2.88" description="" target="" id="Point03" url="{node47}" skinid="ht_node" title="" pan="-131.09"/>
+    </hotspots>
+    <media/>
+    <transition blendtime="1" zoomafteroutfov="20" zoomout="0" zoomfov="20" type="crossdissolve" enabled="1" zoomspeed="2" zoomafterinfov="90" zoomoutpause="1" blendcolor="0x000000" zoomin="0" softedge="0"/>
+    <animation syncanimationwithvideo="0" animsequence="Animation01" useinautorotation="0"/>
+    <control dblclickfullscreen="0" speedwheel="1" invertcontrol="1" invertwheel="0" sensitivity="8" contextfullscreen="1" lockedkeyboard="0" contextvr="1" contextprojections="0" lockedmouse="0" hideabout="0" lockedkeyboardzoom="0" simulatemass="1" rubberband="0" lockedwheel="0"/>
+  </panorama>
+  <panorama id="node2">
+    <input width="1563" levelbias="0.400" levelbiashidpi="1.000" levelingroll="0" levelingpitch="0" leveltileurl="tiles/node2/cf_%c/l_%l/c_%x/tile_%y.jpg" leveltilesize="510" height="1563" overlap="1">
+      <level width="1563" preload="0" predecode="0" height="1563"/>
+      <level width="781" preload="0" predecode="0" height="781"/>
+      <level width="390" preload="1" predecode="1" height="390"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view pannorth="0" fovmode="0">
+      <start projection="4" tilt="0" fov="47.27" pan="-37.24"/>
+      <flyin projection="4" tilt="0" fov="47.27" pan="-35.73"/>
+      <min tilt="-23.6343" fovpixel="2" pan="-180"/>
+      <max fovfisheye="360" tilt="23.6343" fovstereographic="270" fov="120" pan="180"/>
+    </view>
+    <userdata datetime="5/6/2022 4:32 PM" longitude="" heading="0" description="" comment="" info="" nodeid="node2" copyright="" source="" title="تالار طبقه 1 ورودی" latitude="" customnodeid="" author="" tags="Pano2VR6"/>
+    <hotspots width="180" height="20" wordwrap="1">
+      <label width="180" background="1" backgroundcolor="0xffffff" textalpha="1" bordercolor="0x000000" borderalpha="1" backgroundalpha="1" enabled="1" borderradius="1" height="20" border="1" wordwrap="1" textcolor="0x000000"/>
+      <polystyle mode="0" backgroundcolor="0x0000ff" handcursor="1" bordercolor="0x0000ff" borderalpha="1" backgroundalpha="0.25098"/>
+      <hotspot tilt="1.5" description="" target="" id="Point01" url="{node1}" skinid="ht_node" title="ورودی ساختمان 1" pan="-224.51"/>
+      <hotspot tilt="-5.33" description="" target="" id="Point02" url="{node22}" skinid="ht_node" title="تالار طبقه 1 راهرو موجودات دریایی" pan="-315.56"/>
+      <hotspot tilt="-1.66" description="" target="" id="Point03" url="{node3}" skinid="ht_node" title="تالار طبقه 1 گوشه زمین شناسی" pan="-134.1"/>
+    </hotspots>
+    <media/>
+    <transition blendtime="1" zoomafteroutfov="20" zoomout="0" zoomfov="20" type="crossdissolve" enabled="1" zoomspeed="2" zoomafterinfov="90" zoomoutpause="1" blendcolor="0x000000" zoomin="0" softedge="0"/>
+    <animation syncanimationwithvideo="0" animsequence="Animation01" useinautorotation="0"/>
+    <control dblclickfullscreen="0" speedwheel="1" invertcontrol="1" invertwheel="0" sensitivity="8" contextfullscreen="1" lockedkeyboard="0" contextvr="1" contextprojections="0" lockedmouse="0" hideabout="0" lockedkeyboardzoom="0" simulatemass="1" rubberband="0" lockedwheel="0"/>
+  </panorama>
+  <panorama id="node3">
+    <input width="1562" levelbias="0.400" levelbiashidpi="1.000" levelingroll="0" levelingpitch="0" leveltileurl="tiles/node3/cf_%c/l_%l/c_%x/tile_%y.jpg" leveltilesize="510" height="1562" overlap="1">
+      <level width="1562" preload="0" predecode="0" height="1562"/>
+      <level width="781" preload="0" predecode="0" height="781"/>
+      <level width="390" preload="1" predecode="1" height="390"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view pannorth="0" fovmode="0">
+      <start projection="4" tilt="0" fov="48.34" pan="-24.15"/>
+      <flyin projection="9" tilt="-90" fov="170" pan="0"/>
+      <min tilt="-24.1705" fovpixel="2" pan="-180"/>
+      <max fovfisheye="360" tilt="24.1705" fovstereographic="270" fov="120" pan="180"/>
+    </view>
+    <userdata datetime="5/6/2022 4:37 PM" longitude="" heading="0" description="" comment="" info="" nodeid="node3" copyright="" source="" title="تالار طبقه 1 گوشه زمین شناسی" latitude="" customnodeid="" author="" tags="Pano2VR6"/>
+    <hotspots width="180" height="20" wordwrap="1">
+      <label width="180" background="1" backgroundcolor="0xffffff" textalpha="1" bordercolor="0x000000" borderalpha="1" backgroundalpha="1" enabled="1" borderradius="1" height="20" border="1" wordwrap="1" textcolor="0x000000"/>
+      <polystyle mode="0" backgroundcolor="0x0000ff" handcursor="1" bordercolor="0x0000ff" borderalpha="1" backgroundalpha="0.25098"/>
+      <hotspot tilt="-1.85" description="" target="" id="Point01" url="{node2}" skinid="ht_node" title="تالار طبقه 1 ورودی" pan="-337.66"/>
+      <hotspot tilt="-2.53" description="" target="" id="Point02" url="{node4}" skinid="ht_node" title="تالار طبقه 1 کنار سالن جلسات" pan="-73.05"/>
+    </hotspots>
+    <media/>
+    <transition blendtime="1" zoomafteroutfov="20" zoomout="0" zoomfov="20" type="crossdissolve" enabled="1" zoomspeed="2" zoomafterinfov="90" zoomoutpause="1" blendcolor="0x000000" zoomin="0" softedge="0"/>
+    <animation syncanimationwithvideo="0" animsequence="Animation01" useinautorotation="0"/>
+    <control dblclickfullscreen="0" speedwheel="1" invertcontrol="1" invertwheel="0" sensitivity="8" contextfullscreen="1" lockedkeyboard="0" contextvr="1" contextprojections="0" lockedmouse="0" hideabout="0" lockedkeyboardzoom="0" simulatemass="1" rubberband="0" lockedwheel="0"/>
+  </panorama>
+  <panorama id="node4">
+    <input width="1562" levelbias="0.400" levelbiashidpi="1.000" levelingroll="0" levelingpitch="0" leveltileurl="tiles/node4/cf_%c/l_%l/c_%x/tile_%y.jpg" leveltilesize="510" height="1562" overlap="1">
+      <level width="1562" preload="0" predecode="0" height="1562"/>
+      <level width="781" preload="0" predecode="0" height="781"/>
+      <level width="390" preload="1" predecode="1" height="390"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view pannorth="0" fovmode="0">
+      <start projection="4" tilt="0" fov="48.49" pan="-79.48"/>
+      <flyin projection="9" tilt="-90" fov="170" pan="0"/>
+      <min tilt="-24.2458" fovpixel="2" pan="-180"/>
+      <max fovfisheye="360" tilt="24.2458" fovstereographic="270" fov="120" pan="180"/>
+    </view>
+    <userdata datetime="5/6/2022 4:42 PM" longitude="" heading="0" description="" comment="" info="" nodeid="node4" copyright="" source="" title="تالار طبقه 1 کنار سالن جلسات" latitude="" customnodeid="" author="" tags="Pano2VR6"/>
+    <hotspots width="180" height="20" wordwrap="1">
+      <label width="180" background="1" backgroundcolor="0xffffff" textalpha="1" bordercolor="0x000000" borderalpha="1" backgroundalpha="1" enabled="1" borderradius="1" height="20" border="1" wordwrap="1" textcolor="0x000000"/>
+      <polystyle mode="0" backgroundcolor="0x0000ff" handcursor="1" bordercolor="0x0000ff" borderalpha="1" backgroundalpha="0.25098"/>
+      <hotspot tilt="-3.61" description="" target="" id="Point01" url="{node3}" skinid="ht_node" title="تالار طبقه 1 گوشه زمین شناسی" pan="-346.53"/>
+      <hotspot tilt="-4.04" description="" target="" id="Point02" url="{node5}" skinid="ht_node" title="سالن جلسات" pan="-266"/>
+      <hotspot tilt="-8.52" description="" target="" id="Point03" url="{node6}" skinid="ht_node" title="کلاس جغرافیا" pan="-211.04"/>
+      <hotspot tilt="-4.46" description="" target="" id="Point04" url="{node7}" skinid="ht_node" title="تالار طبقه 1 گوشه جغرافیا" pan="-159.21"/>
+    </hotspots>
+    <media/>
+    <transition blendtime="1" zoomafteroutfov="20" zoomout="0" zoomfov="20" type="crossdissolve" enabled="1" zoomspeed="2" zoomafterinfov="90" zoomoutpause="1" blendcolor="0x000000" zoomin="0" softedge="0"/>
+    <animation syncanimationwithvideo="0" animsequence="Animation01" useinautorotation="0"/>
+    <control dblclickfullscreen="0" speedwheel="1" invertcontrol="1" invertwheel="0" sensitivity="8" contextfullscreen="1" lockedkeyboard="0" contextvr="1" contextprojections="0" lockedmouse="0" hideabout="0" lockedkeyboardzoom="0" simulatemass="1" rubberband="0" lockedwheel="0"/>
+  </panorama>
+  <panorama id="node5">
+    <input width="1558" levelbias="0.400" levelbiashidpi="1.000" levelingroll="0" levelingpitch="0" leveltileurl="tiles/node5/cf_%c/l_%l/c_%x/tile_%y.jpg" leveltilesize="510" height="1558" overlap="1">
+      <level width="1558" preload="0" predecode="0" height="1558"/>
+      <level width="779" preload="0" predecode="0" height="779"/>
+      <level width="389" preload="1" predecode="1" height="389"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view pannorth="0" fovmode="0">
+      <start projection="4" tilt="0" fov="67.46" pan="-53.24"/>
+      <flyin projection="9" tilt="-90" fov="170" pan="0"/>
+      <min tilt="-33.7321" fovpixel="2" pan="-180"/>
+      <max fovfisheye="360" tilt="33.7321" fovstereographic="270" fov="120" pan="180"/>
+    </view>
+    <userdata datetime="5/7/2022 9:53 AM" longitude="" heading="0" description="" comment="" info="" nodeid="node5" copyright="" source="" title="سالن جلسات" latitude="" customnodeid="" author="" tags="Pano2VR6"/>
+    <hotspots width="180" height="20" wordwrap="1">
+      <label width="180" background="1" backgroundcolor="0xffffff" textalpha="1" bordercolor="0x000000" borderalpha="1" backgroundalpha="1" enabled="1" borderradius="1" height="20" border="1" wordwrap="1" textcolor="0x000000"/>
+      <polystyle mode="0" backgroundcolor="0x0000ff" handcursor="1" bordercolor="0x0000ff" borderalpha="1" backgroundalpha="0.25098"/>
+      <hotspot tilt="3.36" description="" target="" id="Point01" url="{node4}" skinid="ht_node" title="تالار طبقه 1 کنار سالن جلسات" pan="-205.53"/>
+    </hotspots>
+    <media/>
+    <transition blendtime="1" zoomafteroutfov="20" zoomout="0" zoomfov="20" type="crossdissolve" enabled="1" zoomspeed="2" zoomafterinfov="90" zoomoutpause="1" blendcolor="0x000000" zoomin="0" softedge="0"/>
+    <animation syncanimationwithvideo="0" animsequence="Animation01" useinautorotation="0"/>
+    <control dblclickfullscreen="0" speedwheel="1" invertcontrol="1" invertwheel="0" sensitivity="8" contextfullscreen="1" lockedkeyboard="0" contextvr="1" contextprojections="0" lockedmouse="0" hideabout="0" lockedkeyboardzoom="0" simulatemass="1" rubberband="0" lockedwheel="0"/>
+  </panorama>
+  <panorama id="node6">
+    <input width="1555" levelbias="0.400" levelbiashidpi="1.000" levelingroll="0" levelingpitch="0" leveltileurl="tiles/node6/cf_%c/l_%l/c_%x/tile_%y.jpg" leveltilesize="510" height="1555" overlap="1">
+      <level width="1555" preload="0" predecode="0" height="1555"/>
+      <level width="777" preload="0" predecode="0" height="777"/>
+      <level width="388" preload="1" predecode="1" height="388"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view pannorth="0" fovmode="0">
+      <start projection="4" tilt="0" fov="56.51" pan="113.54"/>
+      <flyin projection="9" tilt="-90" fov="170" pan="0"/>
+      <min tilt="-28.2538" fovpixel="2" pan="-180"/>
+      <max fovfisheye="360" tilt="28.2538" fovstereographic="270" fov="120" pan="180"/>
+    </view>
+    <userdata datetime="5/6/2022 7:02 PM" longitude="" heading="0" description="" comment="" info="" nodeid="node6" copyright="" source="" title="کلاس جغرافیا" latitude="" customnodeid="" author="" tags="Pano2VR6"/>
+    <hotspots width="180" height="20" wordwrap="1">
+      <label width="180" background="1" backgroundcolor="0xffffff" textalpha="1" bordercolor="0x000000" borderalpha="1" backgroundalpha="1" enabled="1" borderradius="1" height="20" border="1" wordwrap="1" textcolor="0x000000"/>
+      <polystyle mode="0" backgroundcolor="0x0000ff" handcursor="1" bordercolor="0x0000ff" borderalpha="1" backgroundalpha="0.25098"/>
+      <hotspot tilt="-6.65" description="" target="" id="Point01" url="{node4}" skinid="ht_node" title="تالار طبقه 1 کنار سالن جلسات" pan="-183.39"/>
+    </hotspots>
+    <media/>
+    <transition blendtime="1" zoomafteroutfov="20" zoomout="0" zoomfov="20" type="crossdissolve" enabled="1" zoomspeed="2" zoomafterinfov="90" zoomoutpause="1" blendcolor="0x000000" zoomin="0" softedge="0"/>
+    <animation syncanimationwithvideo="0" animsequence="Animation01" useinautorotation="0"/>
+    <control dblclickfullscreen="0" speedwheel="1" invertcontrol="1" invertwheel="0" sensitivity="8" contextfullscreen="1" lockedkeyboard="0" contextvr="1" contextprojections="0" lockedmouse="0" hideabout="0" lockedkeyboardzoom="0" simulatemass="1" rubberband="0" lockedwheel="0"/>
+  </panorama>
+  <panorama id="node7">
+    <input width="1555" levelbias="0.400" levelbiashidpi="1.000" levelingroll="0" levelingpitch="0" leveltileurl="tiles/node7/cf_%c/l_%l/c_%x/tile_%y.jpg" leveltilesize="510" height="1555" overlap="1">
+      <level width="1555" preload="0" predecode="0" height="1555"/>
+      <level width="777" preload="0" predecode="0" height="777"/>
+      <level width="388" preload="1" predecode="1" height="388"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view pannorth="0" fovmode="0">
+      <start projection="4" tilt="0" fov="48" pan="-28.99"/>
+      <flyin projection="4" tilt="0" fov="48" pan="-31.69"/>
+      <min tilt="-24.0017" fovpixel="2" pan="-180"/>
+      <max fovfisheye="360" tilt="24.0017" fovstereographic="270" fov="120" pan="180"/>
+    </view>
+    <userdata datetime="5/6/2022 4:44 PM" longitude="" heading="0" description="" comment="" info="" nodeid="node7" copyright="" source="" title="تالار طبقه 1 گوشه جغرافیا" latitude="" customnodeid="" author="" tags="Pano2VR6"/>
+    <hotspots width="180" height="20" wordwrap="1">
+      <label width="180" background="1" backgroundcolor="0xffffff" textalpha="1" bordercolor="0x000000" borderalpha="1" backgroundalpha="1" enabled="1" borderradius="1" height="20" border="1" wordwrap="1" textcolor="0x000000"/>
+      <polystyle mode="0" backgroundcolor="0x0000ff" handcursor="1" bordercolor="0x0000ff" borderalpha="1" backgroundalpha="0.25098"/>
+      <hotspot tilt="-4.54" description="" target="" id="Point01" url="{node4}" skinid="ht_node" title="تالار طبقه 1 کنار سالن جلسات" pan="-343.82"/>
+      <hotspot tilt="-2.54" description="" target="" id="Point02" url="{node8}" skinid="ht_node" title="کلاس زمین شناسی" pan="-202.96"/>
+      <hotspot tilt="-1.87" description="" target="" id="Point03" url="{node9}" skinid="ht_node" title="تالار طبقه 1 کنار کلاس نجوم" pan="-74.63"/>
+      <hotspot tilt="15.05" description="" target="" id="Point04" url="{node23}" skinid="ht_node" title="تالار طبقه 2 (آ)" pan="-154.25"/>
+    </hotspots>
+    <media/>
+    <transition blendtime="1" zoomafteroutfov="20" zoomout="0" zoomfov="20" type="crossdissolve" enabled="1" zoomspeed="2" zoomafterinfov="90" zoomoutpause="1" blendcolor="0x000000" zoomin="0" softedge="0"/>
+    <animation syncanimationwithvideo="0" animsequence="Animation01" useinautorotation="0"/>
+    <control dblclickfullscreen="0" speedwheel="1" invertcontrol="1" invertwheel="0" sensitivity="8" contextfullscreen="1" lockedkeyboard="0" contextvr="1" contextprojections="0" lockedmouse="0" hideabout="0" lockedkeyboardzoom="0" simulatemass="1" rubberband="0" lockedwheel="0"/>
+  </panorama>
+  <panorama id="node8">
+    <input width="1564" levelbias="0.400" levelbiashidpi="1.000" levelingroll="0" levelingpitch="0" leveltileurl="tiles/node8/cf_%c/l_%l/c_%x/tile_%y.jpg" leveltilesize="510" height="1564" overlap="1">
+      <level width="1564" preload="0" predecode="0" height="1564"/>
+      <level width="782" preload="0" predecode="0" height="782"/>
+      <level width="391" preload="1" predecode="1" height="391"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view pannorth="0" fovmode="0">
+      <start projection="4" tilt="0" fov="65.74" pan="19.1"/>
+      <flyin projection="9" tilt="-90" fov="170" pan="0"/>
+      <min tilt="-32.8703" fovpixel="2" pan="-180"/>
+      <max fovfisheye="360" tilt="32.8703" fovstereographic="270" fov="120" pan="180"/>
+    </view>
+    <userdata datetime="5/6/2022 6:52 PM" longitude="" heading="0" description="" comment="" info="" nodeid="node8" copyright="" source="" title="کلاس زمین شناسی" latitude="" customnodeid="" author="" tags="Pano2VR6"/>
+    <hotspots width="180" height="20" wordwrap="1">
+      <label width="180" background="1" backgroundcolor="0xffffff" textalpha="1" bordercolor="0x000000" borderalpha="1" backgroundalpha="1" enabled="1" borderradius="1" height="20" border="1" wordwrap="1" textcolor="0x000000"/>
+      <polystyle mode="0" backgroundcolor="0x0000ff" handcursor="1" bordercolor="0x0000ff" borderalpha="1" backgroundalpha="0.25098"/>
+      <hotspot tilt="0" description="" target="" id="Point01" url="{node7}" skinid="ht_node" title="تالار طبقه 1 گوشه جغرافیا" pan="-56.4"/>
+    </hotspots>
+    <media/>
+    <transition blendtime="1" zoomafteroutfov="20" zoomout="0" zoomfov="20" type="crossdissolve" enabled="1" zoomspeed="2" zoomafterinfov="90" zoomoutpause="1" blendcolor="0x000000" zoomin="0" softedge="0"/>
+    <animation syncanimationwithvideo="0" animsequence="Animation01" useinautorotation="0"/>
+    <control dblclickfullscreen="0" speedwheel="1" invertcontrol="1" invertwheel="0" sensitivity="8" contextfullscreen="1" lockedkeyboard="0" contextvr="1" contextprojections="0" lockedmouse="0" hideabout="0" lockedkeyboardzoom="0" simulatemass="1" rubberband="0" lockedwheel="0"/>
+  </panorama>
+  <panorama id="node9">
+    <input width="1575" levelbias="0.400" levelbiashidpi="1.000" levelingroll="0" levelingpitch="0" leveltileurl="tiles/node9/cf_%c/l_%l/c_%x/tile_%y.jpg" leveltilesize="510" height="1575" overlap="1">
+      <level width="1575" preload="0" predecode="0" height="1575"/>
+      <level width="787" preload="0" predecode="0" height="787"/>
+      <level width="393" preload="1" predecode="1" height="393"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view pannorth="0" fovmode="0">
+      <start projection="4" tilt="0" fov="47.96" pan="-112.01"/>
+      <flyin projection="4" tilt="0" fov="47.96" pan="-110.92"/>
+      <min tilt="-23.98" fovpixel="2" pan="-180"/>
+      <max fovfisheye="360" tilt="23.98" fovstereographic="270" fov="120" pan="180"/>
+    </view>
+    <userdata datetime="5/6/2022 4:45 PM" longitude="" heading="0" description="" comment="" info="" nodeid="node9" copyright="" source="" title="تالار طبقه 1 کنار کلاس نجوم" latitude="" customnodeid="" author="" tags="Pano2VR6"/>
+    <hotspots width="180" height="20" wordwrap="1">
+      <label width="180" background="1" backgroundcolor="0xffffff" textalpha="1" bordercolor="0x000000" borderalpha="1" backgroundalpha="1" enabled="1" borderradius="1" height="20" border="1" wordwrap="1" textcolor="0x000000"/>
+      <polystyle mode="0" backgroundcolor="0x0000ff" handcursor="1" bordercolor="0x0000ff" borderalpha="1" backgroundalpha="0.25098"/>
+      <hotspot tilt="-2.2" description="" target="" id="Point01" url="{node7}" skinid="ht_node" title="تالار طبقه 1 گوشه جغرافیا" pan="-25.44"/>
+      <hotspot tilt="-4.91" description="" target="" id="Point02" url="{node10}" skinid="ht_node" title="کلاس نجوم" pan="-291.51"/>
+      <hotspot tilt="-5.73" description="" target="" id="Point03" url="{node11}" skinid="ht_node" title="تالار طبقه 1 بخش راهرو زیست شناسی" pan="-201.89"/>
+    </hotspots>
+    <media/>
+    <transition blendtime="1" zoomafteroutfov="20" zoomout="0" zoomfov="20" type="crossdissolve" enabled="1" zoomspeed="2" zoomafterinfov="90" zoomoutpause="1" blendcolor="0x000000" zoomin="0" softedge="0"/>
+    <animation syncanimationwithvideo="0" animsequence="Animation01" useinautorotation="0"/>
+    <control dblclickfullscreen="0" speedwheel="1" invertcontrol="1" invertwheel="0" sensitivity="8" contextfullscreen="1" lockedkeyboard="0" contextvr="1" contextprojections="0" lockedmouse="0" hideabout="0" lockedkeyboardzoom="0" simulatemass="1" rubberband="0" lockedwheel="0"/>
+  </panorama>
+  <panorama id="node10">
+    <input width="1563" levelbias="0.400" levelbiashidpi="1.000" levelingroll="0" levelingpitch="0" leveltileurl="tiles/node10/cf_%c/l_%l/c_%x/tile_%y.jpg" leveltilesize="510" height="1563" overlap="1">
+      <level width="1563" preload="0" predecode="0" height="1563"/>
+      <level width="781" preload="0" predecode="0" height="781"/>
+      <level width="390" preload="1" predecode="1" height="390"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view pannorth="0" fovmode="0">
+      <start projection="4" tilt="0" fov="70" pan="0"/>
+      <flyin projection="9" tilt="-90" fov="170" pan="0"/>
+      <min tilt="-24.2047" fovpixel="2" pan="-180"/>
+      <max fovfisheye="360" tilt="24.2047" fovstereographic="270" fov="120" pan="180"/>
+    </view>
+    <userdata datetime="5/6/2022 6:49 PM" longitude="" heading="0" description="" comment="" info="" nodeid="node10" copyright="" source="" title="کلاس نجوم" latitude="" customnodeid="" author="" tags="Pano2VR6"/>
+    <hotspots width="180" height="20" wordwrap="1">
+      <label width="180" background="1" backgroundcolor="0xffffff" textalpha="1" bordercolor="0x000000" borderalpha="1" backgroundalpha="1" enabled="1" borderradius="1" height="20" border="1" wordwrap="1" textcolor="0x000000"/>
+      <polystyle mode="0" backgroundcolor="0x0000ff" handcursor="1" bordercolor="0x0000ff" borderalpha="1" backgroundalpha="0.25098"/>
+      <hotspot tilt="-2.31" description="" target="" id="Point01" url="{node9}" skinid="ht_node" title="تالار طبقه 1 کنار کلاس نجوم" pan="-338.25"/>
+    </hotspots>
+    <media/>
+    <transition blendtime="1" zoomafteroutfov="20" zoomout="0" zoomfov="20" type="crossdissolve" enabled="1" zoomspeed="2" zoomafterinfov="90" zoomoutpause="1" blendcolor="0x000000" zoomin="0" softedge="0"/>
+    <animation syncanimationwithvideo="0" animsequence="Animation01" useinautorotation="0"/>
+    <control dblclickfullscreen="0" speedwheel="1" invertcontrol="1" invertwheel="0" sensitivity="8" contextfullscreen="1" lockedkeyboard="0" contextvr="1" contextprojections="0" lockedmouse="0" hideabout="0" lockedkeyboardzoom="0" simulatemass="1" rubberband="0" lockedwheel="0"/>
+  </panorama>
+  <panorama id="node11">
+    <input width="1584" levelbias="0.400" levelbiashidpi="1.000" levelingroll="0" levelingpitch="0" leveltileurl="tiles/node11/cf_%c/l_%l/c_%x/tile_%y.jpg" leveltilesize="510" height="1584" overlap="1">
+      <level width="1584" preload="0" predecode="0" height="1584"/>
+      <level width="792" preload="0" predecode="0" height="792"/>
+      <level width="396" preload="1" predecode="1" height="396"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view pannorth="0" fovmode="0">
+      <start projection="4" tilt="0" fov="66.08" pan="-13.96"/>
+      <flyin projection="4" tilt="0" fov="66.08" pan="-18.45"/>
+      <min tilt="-33.0411" fovpixel="2" pan="-180"/>
+      <max fovfisheye="360" tilt="33.0411" fovstereographic="270" fov="120" pan="180"/>
+    </view>
+    <userdata datetime="5/7/2022 10:49 AM" longitude="" heading="0" description="" comment="" info="" nodeid="node11" copyright="" source="" title="تالار طبقه 1 بخش راهرو زیست شناسی" latitude="" customnodeid="" author="" tags="Pano2VR6"/>
+    <hotspots width="180" height="20" wordwrap="1">
+      <label width="180" background="1" backgroundcolor="0xffffff" textalpha="1" bordercolor="0x000000" borderalpha="1" backgroundalpha="1" enabled="1" borderradius="1" height="20" border="1" wordwrap="1" textcolor="0x000000"/>
+      <polystyle mode="0" backgroundcolor="0x0000ff" handcursor="1" bordercolor="0x0000ff" borderalpha="1" backgroundalpha="0.25098"/>
+      <hotspot tilt="-6.11" description="" target="" id="Point01" url="{node9}" skinid="ht_node" title="تالار طبقه 1 کنار کلاس نجوم" pan="-288.42"/>
+      <hotspot tilt="-5.43" description="" target="" id="Point02" url="{node12}" skinid="ht_node" title="تالار طبقه 1 گوشه زیست شناسی" pan="-107.46"/>
+    </hotspots>
+    <media/>
+    <transition blendtime="1" zoomafteroutfov="20" zoomout="0" zoomfov="20" type="crossdissolve" enabled="1" zoomspeed="2" zoomafterinfov="90" zoomoutpause="1" blendcolor="0x000000" zoomin="0" softedge="0"/>
+    <animation syncanimationwithvideo="0" animsequence="Animation01" useinautorotation="0"/>
+    <control dblclickfullscreen="0" speedwheel="1" invertcontrol="1" invertwheel="0" sensitivity="8" contextfullscreen="1" lockedkeyboard="0" contextvr="1" contextprojections="0" lockedmouse="0" hideabout="0" lockedkeyboardzoom="0" simulatemass="1" rubberband="0" lockedwheel="0"/>
+  </panorama>
+  <panorama id="node12">
+    <input width="1558" levelbias="0.400" levelbiashidpi="1.000" levelingroll="0" levelingpitch="0" leveltileurl="tiles/node12/cf_%c/l_%l/c_%x/tile_%y.jpg" leveltilesize="510" height="1558" overlap="1">
+      <level width="1558" preload="0" predecode="0" height="1558"/>
+      <level width="779" preload="0" predecode="0" height="779"/>
+      <level width="389" preload="1" predecode="1" height="389"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view pannorth="0" fovmode="0">
+      <start projection="4" tilt="0" fov="48.08" pan="-100.16"/>
+      <flyin projection="9" tilt="-90" fov="170" pan="0"/>
+      <min tilt="-24.0399" fovpixel="2" pan="-180"/>
+      <max fovfisheye="360" tilt="24.0399" fovstereographic="270" fov="120" pan="180"/>
+    </view>
+    <userdata datetime="5/6/2022 4:50 PM" longitude="" heading="0" description="" comment="" info="" nodeid="node12" copyright="" source="" title="تالار طبقه 1 گوشه زیست شناسی" latitude="" customnodeid="" author="" tags="Pano2VR6"/>
+    <hotspots width="180" height="20" wordwrap="1">
+      <label width="180" background="1" backgroundcolor="0xffffff" textalpha="1" bordercolor="0x000000" borderalpha="1" backgroundalpha="1" enabled="1" borderradius="1" height="20" border="1" wordwrap="1" textcolor="0x000000"/>
+      <polystyle mode="0" backgroundcolor="0x0000ff" handcursor="1" bordercolor="0x0000ff" borderalpha="1" backgroundalpha="0.25098"/>
+      <hotspot tilt="-3.57" description="" target="" id="Point01" url="{node11}" skinid="ht_node" title="تالار طبقه 1 بخش راهرو زیست شناسی" pan="-55.48"/>
+      <hotspot tilt="-4.37" description="" target="" id="Point02" url="{node13}" skinid="ht_node" title="آزمایشگاه زیست شناسی (گوشه 1)" pan="-263.33"/>
+      <hotspot tilt="-3.69" description="" target="" id="Point03" url="{node17}" skinid="ht_node" title="تالار طبقه 1 راهرو کنار گلخانه" pan="-148.52"/>
+      <hotspot tilt="16.48" description="" target="" id="Point04" url="{node24}" skinid="ht_node" title="تالار طبقه 2 (ب)" pan="-337.69"/>
+    </hotspots>
+    <media/>
+    <transition blendtime="1" zoomafteroutfov="20" zoomout="0" zoomfov="20" type="crossdissolve" enabled="1" zoomspeed="2" zoomafterinfov="90" zoomoutpause="1" blendcolor="0x000000" zoomin="0" softedge="0"/>
+    <animation syncanimationwithvideo="0" animsequence="Animation01" useinautorotation="0"/>
+    <control dblclickfullscreen="0" speedwheel="1" invertcontrol="1" invertwheel="0" sensitivity="8" contextfullscreen="1" lockedkeyboard="0" contextvr="1" contextprojections="0" lockedmouse="0" hideabout="0" lockedkeyboardzoom="0" simulatemass="1" rubberband="0" lockedwheel="0"/>
+  </panorama>
+  <panorama id="node13">
+    <input width="1558" levelbias="0.400" levelbiashidpi="1.000" levelingroll="0" levelingpitch="0" leveltileurl="tiles/node13/cf_%c/l_%l/c_%x/tile_%y.jpg" leveltilesize="510" height="1558" overlap="1">
+      <level width="1558" preload="0" predecode="0" height="1558"/>
+      <level width="779" preload="0" predecode="0" height="779"/>
+      <level width="389" preload="1" predecode="1" height="389"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view pannorth="0" fovmode="0">
+      <start projection="4" tilt="0" fov="45.16" pan="60.39"/>
+      <flyin projection="9" tilt="-90" fov="170" pan="0"/>
+      <min tilt="-22.5786" fovpixel="2" pan="-180"/>
+      <max fovfisheye="360" tilt="22.5786" fovstereographic="270" fov="120" pan="180"/>
+    </view>
+    <userdata datetime="5/6/2022 6:14 PM" longitude="" heading="0" description="" comment="" info="" nodeid="node13" copyright="" source="" title="آزمایشگاه زیست شناسی (گوشه 1)" latitude="" customnodeid="" author="" tags="Pano2VR6"/>
+    <hotspots width="180" height="20" wordwrap="1">
+      <label width="180" background="1" backgroundcolor="0xffffff" textalpha="1" bordercolor="0x000000" borderalpha="1" backgroundalpha="1" enabled="1" borderradius="1" height="20" border="1" wordwrap="1" textcolor="0x000000"/>
+      <polystyle mode="0" backgroundcolor="0x0000ff" handcursor="1" bordercolor="0x0000ff" borderalpha="1" backgroundalpha="0.25098"/>
+      <hotspot tilt="-3.24" description="" target="" id="Point01" url="{node12}" skinid="ht_node" title="تالار طبقه 1 گوشه زیست شناسی" pan="-242.2"/>
+      <hotspot tilt="-6.92" description="" target="" id="Point02" url="{node14}" skinid="ht_node" title="آزمایشگاه زیست شناسی (گوشه 2)" pan="-70.82"/>
+      <hotspot tilt="-5.81" description="" target="" id="Point03" url="{node16}" skinid="ht_node" title="آزمایشگاه زیست شناسی (گوشه 4)" pan="-3.51"/>
+    </hotspots>
+    <media/>
+    <transition blendtime="1" zoomafteroutfov="20" zoomout="0" zoomfov="20" type="crossdissolve" enabled="1" zoomspeed="2" zoomafterinfov="90" zoomoutpause="1" blendcolor="0x000000" zoomin="0" softedge="0"/>
+    <animation syncanimationwithvideo="0" animsequence="Animation01" useinautorotation="0"/>
+    <control dblclickfullscreen="0" speedwheel="1" invertcontrol="1" invertwheel="0" sensitivity="8" contextfullscreen="1" lockedkeyboard="0" contextvr="1" contextprojections="0" lockedmouse="0" hideabout="0" lockedkeyboardzoom="0" simulatemass="1" rubberband="0" lockedwheel="0"/>
+  </panorama>
+  <panorama id="node14">
+    <input width="1558" levelbias="0.400" levelbiashidpi="1.000" levelingroll="0" levelingpitch="0" leveltileurl="tiles/node14/cf_%c/l_%l/c_%x/tile_%y.jpg" leveltilesize="510" height="1558" overlap="1">
+      <level width="1558" preload="0" predecode="0" height="1558"/>
+      <level width="779" preload="0" predecode="0" height="779"/>
+      <level width="389" preload="1" predecode="1" height="389"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view pannorth="0" fovmode="0">
+      <start projection="4" tilt="0" fov="49.03" pan="36.38"/>
+      <flyin projection="9" tilt="-90" fov="170" pan="0"/>
+      <min tilt="-24.5128" fovpixel="2" pan="-180"/>
+      <max fovfisheye="360" tilt="24.5128" fovstereographic="270" fov="120" pan="180"/>
+    </view>
+    <userdata datetime="5/6/2022 6:23 PM" longitude="" heading="0" description="" comment="" info="" nodeid="node14" copyright="" source="" title="آزمایشگاه زیست شناسی (گوشه 2)" latitude="" customnodeid="" author="" tags="Pano2VR6"/>
+    <hotspots width="180" height="20" wordwrap="1">
+      <label width="180" background="1" backgroundcolor="0xffffff" textalpha="1" bordercolor="0x000000" borderalpha="1" backgroundalpha="1" enabled="1" borderradius="1" height="20" border="1" wordwrap="1" textcolor="0x000000"/>
+      <polystyle mode="0" backgroundcolor="0x0000ff" handcursor="1" bordercolor="0x0000ff" borderalpha="1" backgroundalpha="0.25098"/>
+      <hotspot tilt="-3.26" description="" target="" id="Point01" url="{node13}" skinid="ht_node" title="آزمایشگاه زیست شناسی (گوشه 1)" pan="-333.45"/>
+      <hotspot tilt="-4.69" description="" target="" id="Point02" url="{node16}" skinid="ht_node" title="آزمایشگاه زیست شناسی (گوشه 4)" pan="-54.81"/>
+    </hotspots>
+    <media/>
+    <transition blendtime="1" zoomafteroutfov="20" zoomout="0" zoomfov="20" type="crossdissolve" enabled="1" zoomspeed="2" zoomafterinfov="90" zoomoutpause="1" blendcolor="0x000000" zoomin="0" softedge="0"/>
+    <animation syncanimationwithvideo="0" animsequence="Animation01" useinautorotation="0"/>
+    <control dblclickfullscreen="0" speedwheel="1" invertcontrol="1" invertwheel="0" sensitivity="8" contextfullscreen="1" lockedkeyboard="0" contextvr="1" contextprojections="0" lockedmouse="0" hideabout="0" lockedkeyboardzoom="0" simulatemass="1" rubberband="0" lockedwheel="0"/>
+  </panorama>
+  <panorama id="node16">
+    <input width="1564" levelbias="0.400" levelbiashidpi="1.000" levelingroll="0" levelingpitch="0" leveltileurl="tiles/node16/cf_%c/l_%l/c_%x/tile_%y.jpg" leveltilesize="510" height="1564" overlap="1">
+      <level width="1564" preload="0" predecode="0" height="1564"/>
+      <level width="782" preload="0" predecode="0" height="782"/>
+      <level width="391" preload="1" predecode="1" height="391"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view pannorth="0" fovmode="0">
+      <start projection="4" tilt="0" fov="48.45" pan="162.01"/>
+      <flyin projection="9" tilt="-90" fov="170" pan="0"/>
+      <min tilt="-24.2252" fovpixel="2" pan="-180"/>
+      <max fovfisheye="360" tilt="24.2252" fovstereographic="270" fov="120" pan="180"/>
+    </view>
+    <userdata datetime="5/6/2022 6:27 PM" longitude="" heading="0" description="" comment="" info="" nodeid="node16" copyright="" source="" title="آزمایشگاه زیست شناسی (گوشه 4)" latitude="" customnodeid="" author="" tags="Pano2VR6"/>
+    <hotspots width="180" height="20" wordwrap="1">
+      <label width="180" background="1" backgroundcolor="0xffffff" textalpha="1" bordercolor="0x000000" borderalpha="1" backgroundalpha="1" enabled="1" borderradius="1" height="20" border="1" wordwrap="1" textcolor="0x000000"/>
+      <polystyle mode="0" backgroundcolor="0x0000ff" handcursor="1" bordercolor="0x0000ff" borderalpha="1" backgroundalpha="0.25098"/>
+      <hotspot tilt="-3.7" description="" target="" id="Point01" url="{node14}" skinid="ht_node" title="آزمایشگاه زیست شناسی (گوشه 2)" pan="-196.69"/>
+      <hotspot tilt="-3.49" description="" target="" id="Point02" url="{node13}" skinid="ht_node" title="آزمایشگاه زیست شناسی (گوشه 1)" pan="-242.72"/>
+    </hotspots>
+    <media/>
+    <transition blendtime="1" zoomafteroutfov="20" zoomout="0" zoomfov="20" type="crossdissolve" enabled="1" zoomspeed="2" zoomafterinfov="90" zoomoutpause="1" blendcolor="0x000000" zoomin="0" softedge="0"/>
+    <animation syncanimationwithvideo="0" animsequence="Animation01" useinautorotation="0"/>
+    <control dblclickfullscreen="0" speedwheel="1" invertcontrol="1" invertwheel="0" sensitivity="8" contextfullscreen="1" lockedkeyboard="0" contextvr="1" contextprojections="0" lockedmouse="0" hideabout="0" lockedkeyboardzoom="0" simulatemass="1" rubberband="0" lockedwheel="0"/>
+  </panorama>
+  <panorama id="node17">
+    <input width="1566" levelbias="0.400" levelbiashidpi="1.000" levelingroll="0" levelingpitch="0" leveltileurl="tiles/node17/cf_%c/l_%l/c_%x/tile_%y.jpg" leveltilesize="510" height="1566" overlap="1">
+      <level width="1566" preload="0" predecode="0" height="1566"/>
+      <level width="783" preload="0" predecode="0" height="783"/>
+      <level width="391" preload="1" predecode="1" height="391"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view pannorth="0" fovmode="0">
+      <start projection="4" tilt="0" fov="47.86" pan="-86.62"/>
+      <flyin projection="4" tilt="0" fov="47.86" pan="-87.77"/>
+      <min tilt="-23.9275" fovpixel="2" pan="-180"/>
+      <max fovfisheye="360" tilt="23.9275" fovstereographic="270" fov="120" pan="180"/>
+    </view>
+    <userdata datetime="5/6/2022 4:58 PM" longitude="" heading="0" description="" comment="" info="" nodeid="node17" copyright="" source="" title="تالار طبقه 1 راهرو کنار گلخانه" latitude="" customnodeid="" author="" tags="Pano2VR6"/>
+    <hotspots width="180" height="20" wordwrap="1">
+      <label width="180" background="1" backgroundcolor="0xffffff" textalpha="1" bordercolor="0x000000" borderalpha="1" backgroundalpha="1" enabled="1" borderradius="1" height="20" border="1" wordwrap="1" textcolor="0x000000"/>
+      <polystyle mode="0" backgroundcolor="0x0000ff" handcursor="1" bordercolor="0x0000ff" borderalpha="1" backgroundalpha="0.25098"/>
+      <hotspot tilt="1.35" description="" target="" id="Point01" url="{node12}" skinid="ht_node" title="تالار طبقه 1 گوشه زیست شناسی" pan="-353.76"/>
+      <hotspot tilt="-2.03" description="" target="" id="Point02" url="{node18}" skinid="ht_node" title="تالار طبقه 1 گوشه آکواریوم" pan="-169.71"/>
+      <hotspot tilt="-0.16" description="" target="" id="Point03" url="{node19}" skinid="ht_node" title="گلخانه" pan="-134.29"/>
+      <hotspot tilt="-1.01" description="" target="" id="Point04" url="{node20}" skinid="ht_node" title="آزمایشگاه شیمی (ورودی)" pan="-193.78"/>
+    </hotspots>
+    <media/>
+    <transition blendtime="1" zoomafteroutfov="20" zoomout="0" zoomfov="20" type="crossdissolve" enabled="1" zoomspeed="2" zoomafterinfov="90" zoomoutpause="1" blendcolor="0x000000" zoomin="0" softedge="0"/>
+    <animation syncanimationwithvideo="0" animsequence="Animation01" useinautorotation="0"/>
+    <control dblclickfullscreen="0" speedwheel="1" invertcontrol="1" invertwheel="0" sensitivity="8" contextfullscreen="1" lockedkeyboard="0" contextvr="1" contextprojections="0" lockedmouse="0" hideabout="0" lockedkeyboardzoom="0" simulatemass="1" rubberband="0" lockedwheel="0"/>
+  </panorama>
+  <panorama id="node18">
+    <input width="1564" levelbias="0.400" levelbiashidpi="1.000" levelingroll="0" levelingpitch="0" leveltileurl="tiles/node18/cf_%c/l_%l/c_%x/tile_%y.jpg" leveltilesize="510" height="1564" overlap="1">
+      <level width="1564" preload="0" predecode="0" height="1564"/>
+      <level width="782" preload="0" predecode="0" height="782"/>
+      <level width="391" preload="1" predecode="1" height="391"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view pannorth="0" fovmode="0">
+      <start projection="4" tilt="0" fov="46.23" pan="109.45"/>
+      <flyin projection="9" tilt="-90" fov="170" pan="0"/>
+      <min tilt="-23.1151" fovpixel="2" pan="-180"/>
+      <max fovfisheye="360" tilt="23.1151" fovstereographic="270" fov="120" pan="180"/>
+    </view>
+    <userdata datetime="5/6/2022 5:01 PM" longitude="" heading="0" description="" comment="" info="" nodeid="node18" copyright="" source="" title="تالار طبقه 1 گوشه آکواریوم" latitude="" customnodeid="" author="" tags="Pano2VR6"/>
+    <hotspots width="180" height="20" wordwrap="1">
+      <label width="180" background="1" backgroundcolor="0xffffff" textalpha="1" bordercolor="0x000000" borderalpha="1" backgroundalpha="1" enabled="1" borderradius="1" height="20" border="1" wordwrap="1" textcolor="0x000000"/>
+      <polystyle mode="0" backgroundcolor="0x0000ff" handcursor="1" bordercolor="0x0000ff" borderalpha="1" backgroundalpha="0.25098"/>
+      <hotspot tilt="-1.3" description="" target="" id="Point01" url="{node17}" skinid="ht_node" title="تالار طبقه 1 راهرو کنار گلخانه" pan="-202.38"/>
+      <hotspot tilt="-0.79" description="" target="" id="Point02" url="{node20}" skinid="ht_node" title="آزمایشگاه شیمی (ورودی)" pan="-170.35"/>
+      <hotspot tilt="-0.31" description="" target="" id="Point03" url="{node22}" skinid="ht_node" title="تالار طبقه 1 راهرو موجودات دریایی" pan="-298.15"/>
+    </hotspots>
+    <media/>
+    <transition blendtime="1" zoomafteroutfov="20" zoomout="0" zoomfov="20" type="crossdissolve" enabled="1" zoomspeed="2" zoomafterinfov="90" zoomoutpause="1" blendcolor="0x000000" zoomin="0" softedge="0"/>
+    <animation syncanimationwithvideo="0" animsequence="Animation01" useinautorotation="0"/>
+    <control dblclickfullscreen="0" speedwheel="1" invertcontrol="1" invertwheel="0" sensitivity="8" contextfullscreen="1" lockedkeyboard="0" contextvr="1" contextprojections="0" lockedmouse="0" hideabout="0" lockedkeyboardzoom="0" simulatemass="1" rubberband="0" lockedwheel="0"/>
+  </panorama>
+  <panorama id="node19">
+    <input width="1554" levelbias="0.400" levelbiashidpi="1.000" levelingroll="0" levelingpitch="0" leveltileurl="tiles/node19/cf_%c/l_%l/c_%x/tile_%y.jpg" leveltilesize="510" height="1554" overlap="1">
+      <level width="1554" preload="0" predecode="0" height="1554"/>
+      <level width="777" preload="0" predecode="0" height="777"/>
+      <level width="388" preload="1" predecode="1" height="388"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view pannorth="0" fovmode="0">
+      <start projection="4" tilt="0" fov="70" pan="0"/>
+      <flyin projection="9" tilt="-90" fov="170" pan="0"/>
+      <min tilt="-35.6573" fovpixel="2" pan="-180"/>
+      <max fovfisheye="360" tilt="35.6573" fovstereographic="270" fov="120" pan="180"/>
+    </view>
+    <userdata datetime="5/7/2022 9:16 AM" longitude="" heading="0" description="" comment="" info="" nodeid="node19" copyright="" source="" title="گلخانه" latitude="" customnodeid="" author="" tags="Pano2VR6"/>
+    <hotspots width="180" height="20" wordwrap="1">
+      <label width="180" background="1" backgroundcolor="0xffffff" textalpha="1" bordercolor="0x000000" borderalpha="1" backgroundalpha="1" enabled="1" borderradius="1" height="20" border="1" wordwrap="1" textcolor="0x000000"/>
+      <polystyle mode="0" backgroundcolor="0x0000ff" handcursor="1" bordercolor="0x0000ff" borderalpha="1" backgroundalpha="0.25098"/>
+      <hotspot tilt="-5.79" description="" target="" id="Point01" url="{node17}" skinid="ht_node" title="تالار طبقه 1 راهرو کنار گلخانه" pan="-101.32"/>
+    </hotspots>
+    <media/>
+    <transition blendtime="1" zoomafteroutfov="20" zoomout="0" zoomfov="20" type="crossdissolve" enabled="1" zoomspeed="2" zoomafterinfov="90" zoomoutpause="1" blendcolor="0x000000" zoomin="0" softedge="0"/>
+    <animation syncanimationwithvideo="0" animsequence="Animation01" useinautorotation="0"/>
+    <control dblclickfullscreen="0" speedwheel="1" invertcontrol="1" invertwheel="0" sensitivity="8" contextfullscreen="1" lockedkeyboard="0" contextvr="1" contextprojections="0" lockedmouse="0" hideabout="0" lockedkeyboardzoom="0" simulatemass="1" rubberband="0" lockedwheel="0"/>
+  </panorama>
+  <panorama id="node20">
+    <input width="1565" levelbias="0.400" levelbiashidpi="1.000" levelingroll="0" levelingpitch="0" leveltileurl="tiles/node20/cf_%c/l_%l/c_%x/tile_%y.jpg" leveltilesize="510" height="1565" overlap="1">
+      <level width="1565" preload="0" predecode="0" height="1565"/>
+      <level width="782" preload="0" predecode="0" height="782"/>
+      <level width="391" preload="1" predecode="1" height="391"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view pannorth="0" fovmode="0">
+      <start projection="4" tilt="0" fov="70" pan="0"/>
+      <flyin projection="9" tilt="-90" fov="170" pan="0"/>
+      <min tilt="-33.2818" fovpixel="2" pan="-180"/>
+      <max fovfisheye="360" tilt="33.2818" fovstereographic="270" fov="120" pan="180"/>
+    </view>
+    <userdata datetime="5/7/2022 9:22 AM" longitude="" heading="0" description="" comment="" info="" nodeid="node20" copyright="" source="" title="آزمایشگاه شیمی (ورودی)" latitude="" customnodeid="" author="" tags="Pano2VR6"/>
+    <hotspots width="180" height="20" wordwrap="1">
+      <label width="180" background="1" backgroundcolor="0xffffff" textalpha="1" bordercolor="0x000000" borderalpha="1" backgroundalpha="1" enabled="1" borderradius="1" height="20" border="1" wordwrap="1" textcolor="0x000000"/>
+      <polystyle mode="0" backgroundcolor="0x0000ff" handcursor="1" bordercolor="0x0000ff" borderalpha="1" backgroundalpha="0.25098"/>
+      <hotspot tilt="-9.37" description="" target="" id="Point01" url="{node18}" skinid="ht_node" title="تالار طبقه 1 گوشه آکواریوم" pan="-212.31"/>
+      <hotspot tilt="-9.66" description="" target="" id="Point02" url="{node21}" skinid="ht_node" title="آزماشگاه شیمی (انتهای سالن)" pan="-320.46"/>
+    </hotspots>
+    <media/>
+    <transition blendtime="1" zoomafteroutfov="20" zoomout="0" zoomfov="20" type="crossdissolve" enabled="1" zoomspeed="2" zoomafterinfov="90" zoomoutpause="1" blendcolor="0x000000" zoomin="0" softedge="0"/>
+    <animation syncanimationwithvideo="0" animsequence="Animation01" useinautorotation="0"/>
+    <control dblclickfullscreen="0" speedwheel="1" invertcontrol="1" invertwheel="0" sensitivity="8" contextfullscreen="1" lockedkeyboard="0" contextvr="1" contextprojections="0" lockedmouse="0" hideabout="0" lockedkeyboardzoom="0" simulatemass="1" rubberband="0" lockedwheel="0"/>
+  </panorama>
+  <panorama id="node21">
+    <input width="1552" levelbias="0.400" levelbiashidpi="1.000" levelingroll="0" levelingpitch="0" leveltileurl="tiles/node21/cf_%c/l_%l/c_%x/tile_%y.jpg" leveltilesize="510" height="1552" overlap="1">
+      <level width="1552" preload="0" predecode="0" height="1552"/>
+      <level width="776" preload="0" predecode="0" height="776"/>
+      <level width="388" preload="1" predecode="1" height="388"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view pannorth="0" fovmode="0">
+      <start projection="4" tilt="0" fov="70" pan="0"/>
+      <flyin projection="9" tilt="-90" fov="170" pan="0"/>
+      <min tilt="-33.0836" fovpixel="2" pan="-180"/>
+      <max fovfisheye="360" tilt="33.0836" fovstereographic="270" fov="120" pan="180"/>
+    </view>
+    <userdata datetime="5/7/2022 9:25 AM" longitude="" heading="0" description="" comment="" info="" nodeid="node21" copyright="" source="" title="آزماشگاه شیمی (انتهای سالن)" latitude="" customnodeid="" author="" tags="Pano2VR6"/>
+    <hotspots width="180" height="20" wordwrap="1">
+      <label width="180" background="1" backgroundcolor="0xffffff" textalpha="1" bordercolor="0x000000" borderalpha="1" backgroundalpha="1" enabled="1" borderradius="1" height="20" border="1" wordwrap="1" textcolor="0x000000"/>
+      <polystyle mode="0" backgroundcolor="0x0000ff" handcursor="1" bordercolor="0x0000ff" borderalpha="1" backgroundalpha="0.25098"/>
+      <hotspot tilt="-12.35" description="" target="" id="Point01" url="{node20}" skinid="ht_node" title="آزمایشگاه شیمی (ورودی)" pan="-89.46"/>
+    </hotspots>
+    <media/>
+    <transition blendtime="1" zoomafteroutfov="20" zoomout="0" zoomfov="20" type="crossdissolve" enabled="1" zoomspeed="2" zoomafterinfov="90" zoomoutpause="1" blendcolor="0x000000" zoomin="0" softedge="0"/>
+    <animation syncanimationwithvideo="0" animsequence="Animation01" useinautorotation="0"/>
+    <control dblclickfullscreen="0" speedwheel="1" invertcontrol="1" invertwheel="0" sensitivity="8" contextfullscreen="1" lockedkeyboard="0" contextvr="1" contextprojections="0" lockedmouse="0" hideabout="0" lockedkeyboardzoom="0" simulatemass="1" rubberband="0" lockedwheel="0"/>
+  </panorama>
+  <panorama id="node22">
+    <input width="1580" levelbias="0.400" levelbiashidpi="1.000" levelingroll="0" levelingpitch="0" leveltileurl="tiles/node22/cf_%c/l_%l/c_%x/tile_%y.jpg" leveltilesize="510" height="1580" overlap="1">
+      <level width="1580" preload="0" predecode="0" height="1580"/>
+      <level width="790" preload="0" predecode="0" height="790"/>
+      <level width="395" preload="1" predecode="1" height="395"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view pannorth="0" fovmode="0">
+      <start projection="4" tilt="0" fov="48.14" pan="97.81"/>
+      <flyin projection="4" tilt="0" fov="48.14" pan="97.72"/>
+      <min tilt="-24.0689" fovpixel="2" pan="-180"/>
+      <max fovfisheye="360" tilt="24.0689" fovstereographic="270" fov="120" pan="180"/>
+    </view>
+    <userdata datetime="5/6/2022 5:04 PM" longitude="" heading="0" description="" comment="" info="" nodeid="node22" copyright="" source="" title="تالار طبقه 1 راهرو موجودات دریایی" latitude="" customnodeid="" author="" tags="Pano2VR6"/>
+    <hotspots width="180" height="20" wordwrap="1">
+      <label width="180" background="1" backgroundcolor="0xffffff" textalpha="1" bordercolor="0x000000" borderalpha="1" backgroundalpha="1" enabled="1" borderradius="1" height="20" border="1" wordwrap="1" textcolor="0x000000"/>
+      <polystyle mode="0" backgroundcolor="0x0000ff" handcursor="1" bordercolor="0x0000ff" borderalpha="1" backgroundalpha="0.25098"/>
+      <hotspot tilt="-3.22" description="" target="" id="Point01" url="{node18}" skinid="ht_node" title="تالار طبقه 1 گوشه آکواریوم" pan="-172.56"/>
+      <hotspot tilt="-2.36" description="" target="" id="Point02" url="{node2}" skinid="ht_node" title="تالار طبقه 1 ورودی" pan="-354.35"/>
+    </hotspots>
+    <media/>
+    <transition blendtime="1" zoomafteroutfov="20" zoomout="0" zoomfov="20" type="crossdissolve" enabled="1" zoomspeed="2" zoomafterinfov="90" zoomoutpause="1" blendcolor="0x000000" zoomin="0" softedge="0"/>
+    <animation syncanimationwithvideo="0" animsequence="Animation01" useinautorotation="0"/>
+    <control dblclickfullscreen="0" speedwheel="1" invertcontrol="1" invertwheel="0" sensitivity="8" contextfullscreen="1" lockedkeyboard="0" contextvr="1" contextprojections="0" lockedmouse="0" hideabout="0" lockedkeyboardzoom="0" simulatemass="1" rubberband="0" lockedwheel="0"/>
+  </panorama>
+  <panorama id="node23">
+    <input width="1591" levelbias="0.400" levelbiashidpi="1.000" levelingroll="0" levelingpitch="0" leveltileurl="tiles/node23/cf_%c/l_%l/c_%x/tile_%y.jpg" leveltilesize="510" height="1591" overlap="1">
+      <level width="1591" preload="0" predecode="0" height="1591"/>
+      <level width="795" preload="0" predecode="0" height="795"/>
+      <level width="397" preload="1" predecode="1" height="397"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view pannorth="0" fovmode="0">
+      <start projection="4" tilt="0" fov="70" pan="0"/>
+      <flyin projection="9" tilt="-90" fov="170" pan="0"/>
+      <min tilt="-31.2657" fovpixel="2" pan="-180"/>
+      <max fovfisheye="360" tilt="31.2657" fovstereographic="270" fov="120" pan="180"/>
+    </view>
+    <userdata datetime="5/7/2022 10:18 AM" longitude="" heading="0" description="" comment="" info="" nodeid="node23" copyright="" source="" title="تالار طبقه 2 (آ)" latitude="" customnodeid="" author="" tags="Pano2VR6"/>
+    <hotspots width="180" height="20" wordwrap="1">
+      <label width="180" background="1" backgroundcolor="0xffffff" textalpha="1" bordercolor="0x000000" borderalpha="1" backgroundalpha="1" enabled="1" borderradius="1" height="20" border="1" wordwrap="1" textcolor="0x000000"/>
+      <polystyle mode="0" backgroundcolor="0x0000ff" handcursor="1" bordercolor="0x0000ff" borderalpha="1" backgroundalpha="0.25098"/>
+      <hotspot tilt="-5.51" description="" target="" id="Point01" url="{node24}" skinid="ht_node" title="تالار طبقه 2 (ب)" pan="-329.43"/>
+      <hotspot tilt="1.35" description="" target="" id="Point02" url="{node25}" skinid="ht_node" title="کلاس مکانیک" pan="-132.94"/>
+      <hotspot tilt="-4.54" description="" target="" id="Point03" url="{node28}" skinid="ht_node" title="کلاس الکترونیک" pan="-124.23"/>
+      <hotspot tilt="-0.4" description="" target="" id="Point04" url="{node26}" skinid="ht_node" title="راهرو تاریخ آ (ورودی)" pan="-172.72"/>
+      <hotspot tilt="-6.85" description="" target="" id="Point05" url="{node29}" skinid="ht_node" title="کلاس نور" pan="-352.94"/>
+      <hotspot tilt="-15.94" description="" target="" id="Point06" url="{node7}" skinid="ht_node" title="تالار طبقه 1 گوشه جغرافیا" pan="-151.76"/>
+    </hotspots>
+    <media/>
+    <transition blendtime="1" zoomafteroutfov="20" zoomout="0" zoomfov="20" type="crossdissolve" enabled="1" zoomspeed="2" zoomafterinfov="90" zoomoutpause="1" blendcolor="0x000000" zoomin="0" softedge="0"/>
+    <animation syncanimationwithvideo="0" animsequence="Animation01" useinautorotation="0"/>
+    <control dblclickfullscreen="0" speedwheel="1" invertcontrol="1" invertwheel="0" sensitivity="8" contextfullscreen="1" lockedkeyboard="0" contextvr="1" contextprojections="0" lockedmouse="0" hideabout="0" lockedkeyboardzoom="0" simulatemass="1" rubberband="0" lockedwheel="0"/>
+  </panorama>
+  <panorama id="node24">
+    <input width="1575" levelbias="0.400" levelbiashidpi="1.000" levelingroll="0" levelingpitch="0" leveltileurl="tiles/node24/cf_%c/l_%l/c_%x/tile_%y.jpg" leveltilesize="510" height="1575" overlap="1">
+      <level width="1575" preload="0" predecode="0" height="1575"/>
+      <level width="787" preload="0" predecode="0" height="787"/>
+      <level width="393" preload="1" predecode="1" height="393"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view pannorth="0" fovmode="0">
+      <start projection="4" tilt="0" fov="70" pan="0"/>
+      <flyin projection="9" tilt="-90" fov="170" pan="0"/>
+      <min tilt="-33.3702" fovpixel="2" pan="-180"/>
+      <max fovfisheye="360" tilt="33.3702" fovstereographic="270" fov="120" pan="180"/>
+    </view>
+    <userdata datetime="5/7/2022 10:22 AM" longitude="" heading="0" description="" comment="" info="" nodeid="node24" copyright="" source="" title="تالار طبقه 2 (ب)" latitude="" customnodeid="" author="" tags="Pano2VR6"/>
+    <hotspots width="180" height="20" wordwrap="1">
+      <label width="180" background="1" backgroundcolor="0xffffff" textalpha="1" bordercolor="0x000000" borderalpha="1" backgroundalpha="1" enabled="1" borderradius="1" height="20" border="1" wordwrap="1" textcolor="0x000000"/>
+      <polystyle mode="0" backgroundcolor="0x0000ff" handcursor="1" bordercolor="0x0000ff" borderalpha="1" backgroundalpha="0.25098"/>
+      <hotspot tilt="1" description="" target="" id="Point01" url="{node23}" skinid="ht_node" title="تالار طبقه 2 (آ)" pan="-151.24"/>
+      <hotspot tilt="2.25" description="" target="" id="Point02" url="{node29}" skinid="ht_node" title="کلاس نور" pan="-125.47"/>
+      <hotspot tilt="3.77" description="" target="" id="Point03" url="{node30}" skinid="ht_node" title="آزمایشگاه فیزیک" pan="-338.84"/>
+      <hotspot tilt="5.39" description="" target="" id="Point04" url="{node32}" skinid="ht_node" title="راهرو تاریخ ب (ورودی)" pan="-307.54"/>
+      <hotspot tilt="-11.97" description="" target="" id="Point05" url="{node12}" skinid="ht_node" title="تالار طبقه 1 گوشه زیست شناسی" pan="-328.8"/>
+    </hotspots>
+    <media/>
+    <transition blendtime="1" zoomafteroutfov="20" zoomout="0" zoomfov="20" type="crossdissolve" enabled="1" zoomspeed="2" zoomafterinfov="90" zoomoutpause="1" blendcolor="0x000000" zoomin="0" softedge="0"/>
+    <animation syncanimationwithvideo="0" animsequence="Animation01" useinautorotation="0"/>
+    <control dblclickfullscreen="0" speedwheel="1" invertcontrol="1" invertwheel="0" sensitivity="8" contextfullscreen="1" lockedkeyboard="0" contextvr="1" contextprojections="0" lockedmouse="0" hideabout="0" lockedkeyboardzoom="0" simulatemass="1" rubberband="0" lockedwheel="0"/>
+  </panorama>
+  <panorama id="node25">
+    <input width="1565" levelbias="0.400" levelbiashidpi="1.000" levelingroll="0" levelingpitch="0" leveltileurl="tiles/node25/cf_%c/l_%l/c_%x/tile_%y.jpg" leveltilesize="510" height="1565" overlap="1">
+      <level width="1565" preload="0" predecode="0" height="1565"/>
+      <level width="782" preload="0" predecode="0" height="782"/>
+      <level width="391" preload="1" predecode="1" height="391"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view pannorth="0" fovmode="0">
+      <start projection="4" tilt="0" fov="70" pan="0"/>
+      <flyin projection="9" tilt="-90" fov="170" pan="0"/>
+      <min tilt="-33.7572" fovpixel="2" pan="-180"/>
+      <max fovfisheye="360" tilt="33.7572" fovstereographic="270" fov="120" pan="180"/>
+    </view>
+    <userdata datetime="5/7/2022 9:55 AM" longitude="" heading="0" description="" comment="" info="" nodeid="node25" copyright="" source="" title="کلاس مکانیک" latitude="" customnodeid="" author="" tags="Pano2VR6"/>
+    <hotspots width="180" height="20" wordwrap="1">
+      <label width="180" background="1" backgroundcolor="0xffffff" textalpha="1" bordercolor="0x000000" borderalpha="1" backgroundalpha="1" enabled="1" borderradius="1" height="20" border="1" wordwrap="1" textcolor="0x000000"/>
+      <polystyle mode="0" backgroundcolor="0x0000ff" handcursor="1" bordercolor="0x0000ff" borderalpha="1" backgroundalpha="0.25098"/>
+      <hotspot tilt="0" description="" target="" id="Point01" url="{node23}" skinid="ht_node" title="تالار طبقه 2 (آ)" pan="-344.32"/>
+    </hotspots>
+    <media/>
+    <transition blendtime="1" zoomafteroutfov="20" zoomout="0" zoomfov="20" type="crossdissolve" enabled="1" zoomspeed="2" zoomafterinfov="90" zoomoutpause="1" blendcolor="0x000000" zoomin="0" softedge="0"/>
+    <animation syncanimationwithvideo="0" animsequence="Animation01" useinautorotation="0"/>
+    <control dblclickfullscreen="0" speedwheel="1" invertcontrol="1" invertwheel="0" sensitivity="8" contextfullscreen="1" lockedkeyboard="0" contextvr="1" contextprojections="0" lockedmouse="0" hideabout="0" lockedkeyboardzoom="0" simulatemass="1" rubberband="0" lockedwheel="0"/>
+  </panorama>
+  <panorama id="node26">
+    <input width="1571" levelbias="0.400" levelbiashidpi="1.000" levelingroll="0" levelingpitch="0" leveltileurl="tiles/node26/cf_%c/l_%l/c_%x/tile_%y.jpg" leveltilesize="510" height="1571" overlap="1">
+      <level width="1571" preload="0" predecode="0" height="1571"/>
+      <level width="785" preload="0" predecode="0" height="785"/>
+      <level width="392" preload="1" predecode="1" height="392"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view pannorth="0" fovmode="0">
+      <start projection="4" tilt="0" fov="66.7" pan="151.88"/>
+      <flyin projection="9" tilt="-90" fov="170" pan="0"/>
+      <min tilt="-33.3489" fovpixel="2" pan="-180"/>
+      <max fovfisheye="360" tilt="33.3489" fovstereographic="270" fov="120" pan="180"/>
+    </view>
+    <userdata datetime="5/7/2022 10:02 AM" longitude="" heading="0" description="" comment="" info="" nodeid="node26" copyright="" source="" title="راهرو تاریخ آ (ورودی)" latitude="" customnodeid="" author="" tags="Pano2VR6"/>
+    <hotspots width="180" height="20" wordwrap="1">
+      <label width="180" background="1" backgroundcolor="0xffffff" textalpha="1" bordercolor="0x000000" borderalpha="1" backgroundalpha="1" enabled="1" borderradius="1" height="20" border="1" wordwrap="1" textcolor="0x000000"/>
+      <polystyle mode="0" backgroundcolor="0x0000ff" handcursor="1" bordercolor="0x0000ff" borderalpha="1" backgroundalpha="0.25098"/>
+      <hotspot tilt="-4.68" description="" target="" id="Point01" url="{node27}" skinid="ht_node" title="راهرو تاریخ آ (میانه راهرو)" pan="-219.05"/>
+      <hotspot tilt="-3.98" description="" target="" id="Point02" url="{node23}" skinid="ht_node" title="تالار طبقه 2 (آ)" pan="-340.85"/>
+    </hotspots>
+    <media/>
+    <transition blendtime="1" zoomafteroutfov="20" zoomout="0" zoomfov="20" type="crossdissolve" enabled="1" zoomspeed="2" zoomafterinfov="90" zoomoutpause="1" blendcolor="0x000000" zoomin="0" softedge="0"/>
+    <animation syncanimationwithvideo="0" animsequence="Animation01" useinautorotation="0"/>
+    <control dblclickfullscreen="0" speedwheel="1" invertcontrol="1" invertwheel="0" sensitivity="8" contextfullscreen="1" lockedkeyboard="0" contextvr="1" contextprojections="0" lockedmouse="0" hideabout="0" lockedkeyboardzoom="0" simulatemass="1" rubberband="0" lockedwheel="0"/>
+  </panorama>
+  <panorama id="node27">
+    <input width="1563" levelbias="0.400" levelbiashidpi="1.000" levelingroll="0" levelingpitch="0" leveltileurl="tiles/node27/cf_%c/l_%l/c_%x/tile_%y.jpg" leveltilesize="510" height="1563" overlap="1">
+      <level width="1563" preload="0" predecode="0" height="1563"/>
+      <level width="781" preload="0" predecode="0" height="781"/>
+      <level width="390" preload="1" predecode="1" height="390"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view pannorth="0" fovmode="0">
+      <start projection="4" tilt="0" fov="70" pan="0"/>
+      <flyin projection="9" tilt="-90" fov="170" pan="0"/>
+      <min tilt="-33.7072" fovpixel="2" pan="-180"/>
+      <max fovfisheye="360" tilt="33.7072" fovstereographic="270" fov="120" pan="180"/>
+    </view>
+    <userdata datetime="5/7/2022 10:03 AM" longitude="" heading="0" description="" comment="" info="" nodeid="node27" copyright="" source="" title="راهرو تاریخ آ (میانه راهرو)" latitude="" customnodeid="" author="" tags="Pano2VR6"/>
+    <hotspots width="180" height="20" wordwrap="1">
+      <label width="180" background="1" backgroundcolor="0xffffff" textalpha="1" bordercolor="0x000000" borderalpha="1" backgroundalpha="1" enabled="1" borderradius="1" height="20" border="1" wordwrap="1" textcolor="0x000000"/>
+      <polystyle mode="0" backgroundcolor="0x0000ff" handcursor="1" bordercolor="0x0000ff" borderalpha="1" backgroundalpha="0.25098"/>
+      <hotspot tilt="-5.27" description="" target="" id="Point01" url="{node26}" skinid="ht_node" title="راهرو تاریخ آ (ورودی)" pan="-269.81"/>
+    </hotspots>
+    <media/>
+    <transition blendtime="1" zoomafteroutfov="20" zoomout="0" zoomfov="20" type="crossdissolve" enabled="1" zoomspeed="2" zoomafterinfov="90" zoomoutpause="1" blendcolor="0x000000" zoomin="0" softedge="0"/>
+    <animation syncanimationwithvideo="0" animsequence="Animation01" useinautorotation="0"/>
+    <control dblclickfullscreen="0" speedwheel="1" invertcontrol="1" invertwheel="0" sensitivity="8" contextfullscreen="1" lockedkeyboard="0" contextvr="1" contextprojections="0" lockedmouse="0" hideabout="0" lockedkeyboardzoom="0" simulatemass="1" rubberband="0" lockedwheel="0"/>
+  </panorama>
+  <panorama id="node28">
+    <input width="1562" levelbias="0.400" levelbiashidpi="1.000" levelingroll="0" levelingpitch="0" leveltileurl="tiles/node28/cf_%c/l_%l/c_%x/tile_%y.jpg" leveltilesize="510" height="1562" overlap="1">
+      <level width="1562" preload="0" predecode="0" height="1562"/>
+      <level width="781" preload="0" predecode="0" height="781"/>
+      <level width="390" preload="1" predecode="1" height="390"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view pannorth="0" fovmode="0">
+      <start projection="4" tilt="0" fov="70" pan="0"/>
+      <flyin projection="9" tilt="-90" fov="170" pan="0"/>
+      <min tilt="-33.8393" fovpixel="2" pan="-180"/>
+      <max fovfisheye="360" tilt="33.8393" fovstereographic="270" fov="120" pan="180"/>
+    </view>
+    <userdata datetime="5/7/2022 10:16 AM" longitude="" heading="0" description="" comment="" info="" nodeid="node28" copyright="" source="" title="کلاس الکترونیک" latitude="" customnodeid="" author="" tags="Pano2VR6"/>
+    <hotspots width="180" height="20" wordwrap="1">
+      <label width="180" background="1" backgroundcolor="0xffffff" textalpha="1" bordercolor="0x000000" borderalpha="1" backgroundalpha="1" enabled="1" borderradius="1" height="20" border="1" wordwrap="1" textcolor="0x000000"/>
+      <polystyle mode="0" backgroundcolor="0x0000ff" handcursor="1" bordercolor="0x0000ff" borderalpha="1" backgroundalpha="0.25098"/>
+      <hotspot tilt="-1.89" description="" target="" id="Point01" url="{node23}" skinid="ht_node" title="تالار طبقه 2 (آ)" pan="-337.65"/>
+    </hotspots>
+    <media/>
+    <transition blendtime="1" zoomafteroutfov="20" zoomout="0" zoomfov="20" type="crossdissolve" enabled="1" zoomspeed="2" zoomafterinfov="90" zoomoutpause="1" blendcolor="0x000000" zoomin="0" softedge="0"/>
+    <animation syncanimationwithvideo="0" animsequence="Animation01" useinautorotation="0"/>
+    <control dblclickfullscreen="0" speedwheel="1" invertcontrol="1" invertwheel="0" sensitivity="8" contextfullscreen="1" lockedkeyboard="0" contextvr="1" contextprojections="0" lockedmouse="0" hideabout="0" lockedkeyboardzoom="0" simulatemass="1" rubberband="0" lockedwheel="0"/>
+  </panorama>
+  <panorama id="node29">
+    <input width="1565" levelbias="0.400" levelbiashidpi="1.000" levelingroll="0" levelingpitch="0" leveltileurl="tiles/node29/cf_%c/l_%l/c_%x/tile_%y.jpg" leveltilesize="510" height="1565" overlap="1">
+      <level width="1565" preload="0" predecode="0" height="1565"/>
+      <level width="782" preload="0" predecode="0" height="782"/>
+      <level width="391" preload="1" predecode="1" height="391"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view pannorth="0" fovmode="0">
+      <start projection="4" tilt="0" fov="68.26" pan="142.82"/>
+      <flyin projection="9" tilt="-90" fov="170" pan="0"/>
+      <min tilt="-34.1288" fovpixel="2" pan="-180"/>
+      <max fovfisheye="360" tilt="34.1288" fovstereographic="270" fov="120" pan="180"/>
+    </view>
+    <userdata datetime="5/7/2022 10:28 AM" longitude="" heading="0" description="" comment="" info="" nodeid="node29" copyright="" source="" title="کلاس نور" latitude="" customnodeid="" author="" tags="Pano2VR6"/>
+    <hotspots width="180" height="20" wordwrap="1">
+      <label width="180" background="1" backgroundcolor="0xffffff" textalpha="1" bordercolor="0x000000" borderalpha="1" backgroundalpha="1" enabled="1" borderradius="1" height="20" border="1" wordwrap="1" textcolor="0x000000"/>
+      <polystyle mode="0" backgroundcolor="0x0000ff" handcursor="1" bordercolor="0x0000ff" borderalpha="1" backgroundalpha="0.25098"/>
+      <hotspot tilt="-2.6" description="" target="" id="Point01" url="{node24}" skinid="ht_node" title="تالار طبقه 2 (ب)" pan="-300.19"/>
+    </hotspots>
+    <media/>
+    <transition blendtime="1" zoomafteroutfov="20" zoomout="0" zoomfov="20" type="crossdissolve" enabled="1" zoomspeed="2" zoomafterinfov="90" zoomoutpause="1" blendcolor="0x000000" zoomin="0" softedge="0"/>
+    <animation syncanimationwithvideo="0" animsequence="Animation01" useinautorotation="0"/>
+    <control dblclickfullscreen="0" speedwheel="1" invertcontrol="1" invertwheel="0" sensitivity="8" contextfullscreen="1" lockedkeyboard="0" contextvr="1" contextprojections="0" lockedmouse="0" hideabout="0" lockedkeyboardzoom="0" simulatemass="1" rubberband="0" lockedwheel="0"/>
+  </panorama>
+  <panorama id="node30">
+    <input width="1562" levelbias="0.400" levelbiashidpi="1.000" levelingroll="0" levelingpitch="0" leveltileurl="tiles/node30/cf_%c/l_%l/c_%x/tile_%y.jpg" leveltilesize="510" height="1562" overlap="1">
+      <level width="1562" preload="0" predecode="0" height="1562"/>
+      <level width="781" preload="0" predecode="0" height="781"/>
+      <level width="390" preload="1" predecode="1" height="390"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view pannorth="0" fovmode="0">
+      <start projection="4" tilt="0" fov="70" pan="0"/>
+      <flyin projection="9" tilt="-90" fov="170" pan="0"/>
+      <min tilt="-34.0304" fovpixel="2" pan="-180"/>
+      <max fovfisheye="360" tilt="34.0304" fovstereographic="270" fov="120" pan="180"/>
+    </view>
+    <userdata datetime="5/7/2022 10:33 AM" longitude="" heading="0" description="" comment="" info="" nodeid="node30" copyright="" source="" title="آزمایشگاه فیزیک" latitude="" customnodeid="" author="" tags="Pano2VR6"/>
+    <hotspots width="180" height="20" wordwrap="1">
+      <label width="180" background="1" backgroundcolor="0xffffff" textalpha="1" bordercolor="0x000000" borderalpha="1" backgroundalpha="1" enabled="1" borderradius="1" height="20" border="1" wordwrap="1" textcolor="0x000000"/>
+      <polystyle mode="0" backgroundcolor="0x0000ff" handcursor="1" bordercolor="0x0000ff" borderalpha="1" backgroundalpha="0.25098"/>
+      <hotspot tilt="-3.08" description="" target="" id="Point01" url="{node24}" skinid="ht_node" title="تالار طبقه 2 (ب)" pan="-169.26"/>
+    </hotspots>
+    <media/>
+    <transition blendtime="1" zoomafteroutfov="20" zoomout="0" zoomfov="20" type="crossdissolve" enabled="1" zoomspeed="2" zoomafterinfov="90" zoomoutpause="1" blendcolor="0x000000" zoomin="0" softedge="0"/>
+    <animation syncanimationwithvideo="0" animsequence="Animation01" useinautorotation="0"/>
+    <control dblclickfullscreen="0" speedwheel="1" invertcontrol="1" invertwheel="0" sensitivity="8" contextfullscreen="1" lockedkeyboard="0" contextvr="1" contextprojections="0" lockedmouse="0" hideabout="0" lockedkeyboardzoom="0" simulatemass="1" rubberband="0" lockedwheel="0"/>
+  </panorama>
+  <panorama id="node32">
+    <input width="1554" levelbias="0.400" levelbiashidpi="1.000" levelingroll="0" levelingpitch="0" leveltileurl="tiles/node32/cf_%c/l_%l/c_%x/tile_%y.jpg" leveltilesize="510" height="1554" overlap="1">
+      <level width="1554" preload="0" predecode="0" height="1554"/>
+      <level width="777" preload="0" predecode="0" height="777"/>
+      <level width="388" preload="1" predecode="1" height="388"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view pannorth="0" fovmode="0">
+      <start projection="4" tilt="0" fov="70" pan="0"/>
+      <flyin projection="9" tilt="-90" fov="170" pan="0"/>
+      <min tilt="-33.5035" fovpixel="2" pan="-180"/>
+      <max fovfisheye="360" tilt="33.5035" fovstereographic="270" fov="120" pan="180"/>
+    </view>
+    <userdata datetime="5/7/2022 10:38 AM" longitude="" heading="0" description="" comment="" info="" nodeid="node32" copyright="" source="" title="راهرو تاریخ ب (ورودی)" latitude="" customnodeid="" author="" tags="Pano2VR6"/>
+    <hotspots width="180" height="20" wordwrap="1">
+      <label width="180" background="1" backgroundcolor="0xffffff" textalpha="1" bordercolor="0x000000" borderalpha="1" backgroundalpha="1" enabled="1" borderradius="1" height="20" border="1" wordwrap="1" textcolor="0x000000"/>
+      <polystyle mode="0" backgroundcolor="0x0000ff" handcursor="1" bordercolor="0x0000ff" borderalpha="1" backgroundalpha="0.25098"/>
+      <hotspot tilt="-7.3" description="" target="" id="Point01" url="{node33}" skinid="ht_node" title="راهرو تاریخ ب (میانه)" pan="-181.09"/>
+      <hotspot tilt="-2.26" description="" target="" id="Point02" url="{node24}" skinid="ht_node" title="تالار طبقه 2 (ب)" pan="-3.71"/>
+      <hotspot tilt="-7.36" description="" target="" id="Point03" url="{node34}" skinid="ht_node" title="راهرو تاریخ ب (انتها)" pan="-212.81"/>
+    </hotspots>
+    <media/>
+    <transition blendtime="1" zoomafteroutfov="20" zoomout="0" zoomfov="20" type="crossdissolve" enabled="1" zoomspeed="2" zoomafterinfov="90" zoomoutpause="1" blendcolor="0x000000" zoomin="0" softedge="0"/>
+    <animation syncanimationwithvideo="0" animsequence="Animation01" useinautorotation="0"/>
+    <control dblclickfullscreen="0" speedwheel="1" invertcontrol="1" invertwheel="0" sensitivity="8" contextfullscreen="1" lockedkeyboard="0" contextvr="1" contextprojections="0" lockedmouse="0" hideabout="0" lockedkeyboardzoom="0" simulatemass="1" rubberband="0" lockedwheel="0"/>
+  </panorama>
+  <panorama id="node33">
+    <input width="1590" levelbias="0.400" levelbiashidpi="1.000" levelingroll="0" levelingpitch="0" leveltileurl="tiles/node33/cf_%c/l_%l/c_%x/tile_%y.jpg" leveltilesize="510" height="1590" overlap="1">
+      <level width="1590" preload="0" predecode="0" height="1590"/>
+      <level width="795" preload="0" predecode="0" height="795"/>
+      <level width="397" preload="1" predecode="1" height="397"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view pannorth="0" fovmode="0">
+      <start projection="4" tilt="0" fov="66.54" pan="-124.93"/>
+      <flyin projection="9" tilt="-90" fov="170" pan="0"/>
+      <min tilt="-33.2715" fovpixel="2" pan="-180"/>
+      <max fovfisheye="360" tilt="33.2715" fovstereographic="270" fov="120" pan="180"/>
+    </view>
+    <userdata datetime="5/7/2022 10:39 AM" longitude="" heading="0" description="" comment="" info="" nodeid="node33" copyright="" source="" title="راهرو تاریخ ب (میانه)" latitude="" customnodeid="" author="" tags="Pano2VR6"/>
+    <hotspots width="180" height="20" wordwrap="1">
+      <label width="180" background="1" backgroundcolor="0xffffff" textalpha="1" bordercolor="0x000000" borderalpha="1" backgroundalpha="1" enabled="1" borderradius="1" height="20" border="1" wordwrap="1" textcolor="0x000000"/>
+      <polystyle mode="0" backgroundcolor="0x0000ff" handcursor="1" bordercolor="0x0000ff" borderalpha="1" backgroundalpha="0.25098"/>
+      <hotspot tilt="-4.22" description="" target="" id="Point01" url="{node32}" skinid="ht_node" title="راهرو تاریخ ب (ورودی)" pan="-74.69"/>
+      <hotspot tilt="-3.24" description="" target="" id="Point02" url="{node34}" skinid="ht_node" title="راهرو تاریخ ب (انتها)" pan="-47.1"/>
+    </hotspots>
+    <media/>
+    <transition blendtime="1" zoomafteroutfov="20" zoomout="0" zoomfov="20" type="crossdissolve" enabled="1" zoomspeed="2" zoomafterinfov="90" zoomoutpause="1" blendcolor="0x000000" zoomin="0" softedge="0"/>
+    <animation syncanimationwithvideo="0" animsequence="Animation01" useinautorotation="0"/>
+    <control dblclickfullscreen="0" speedwheel="1" invertcontrol="1" invertwheel="0" sensitivity="8" contextfullscreen="1" lockedkeyboard="0" contextvr="1" contextprojections="0" lockedmouse="0" hideabout="0" lockedkeyboardzoom="0" simulatemass="1" rubberband="0" lockedwheel="0"/>
+  </panorama>
+  <panorama id="node34">
+    <input width="1567" levelbias="0.400" levelbiashidpi="1.000" levelingroll="0" levelingpitch="0" leveltileurl="tiles/node34/cf_%c/l_%l/c_%x/tile_%y.jpg" leveltilesize="510" height="1567" overlap="1">
+      <level width="1567" preload="0" predecode="0" height="1567"/>
+      <level width="783" preload="0" predecode="0" height="783"/>
+      <level width="391" preload="1" predecode="1" height="391"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view pannorth="0" fovmode="0">
+      <start projection="4" tilt="0" fov="70" pan="0"/>
+      <flyin projection="9" tilt="-90" fov="170" pan="0"/>
+      <min tilt="-34.0358" fovpixel="2" pan="-180"/>
+      <max fovfisheye="360" tilt="34.0358" fovstereographic="270" fov="120" pan="180"/>
+    </view>
+    <userdata datetime="5/7/2022 10:41 AM" longitude="" heading="0" description="" comment="" info="" nodeid="node34" copyright="" source="" title="راهرو تاریخ ب (انتها)" latitude="" customnodeid="" author="" tags="Pano2VR6"/>
+    <hotspots width="180" height="20" wordwrap="1">
+      <label width="180" background="1" backgroundcolor="0xffffff" textalpha="1" bordercolor="0x000000" borderalpha="1" backgroundalpha="1" enabled="1" borderradius="1" height="20" border="1" wordwrap="1" textcolor="0x000000"/>
+      <polystyle mode="0" backgroundcolor="0x0000ff" handcursor="1" bordercolor="0x0000ff" borderalpha="1" backgroundalpha="0.25098"/>
+      <hotspot tilt="-3" description="" target="" id="Point01" url="{node33}" skinid="ht_node" title="راهرو تاریخ ب (میانه)" pan="-319.77"/>
+    </hotspots>
+    <media/>
+    <transition blendtime="1" zoomafteroutfov="20" zoomout="0" zoomfov="20" type="crossdissolve" enabled="1" zoomspeed="2" zoomafterinfov="90" zoomoutpause="1" blendcolor="0x000000" zoomin="0" softedge="0"/>
+    <animation syncanimationwithvideo="0" animsequence="Animation01" useinautorotation="0"/>
+    <control dblclickfullscreen="0" speedwheel="1" invertcontrol="1" invertwheel="0" sensitivity="8" contextfullscreen="1" lockedkeyboard="0" contextvr="1" contextprojections="0" lockedmouse="0" hideabout="0" lockedkeyboardzoom="0" simulatemass="1" rubberband="0" lockedwheel="0"/>
+  </panorama>
+  <panorama id="node37">
+    <input width="1547" levelbias="0.400" levelbiashidpi="1.000" levelingroll="0" levelingpitch="0" leveltileurl="tiles/node37/cf_%c/l_%l/c_%x/tile_%y.jpg" leveltilesize="510" height="1547" overlap="1">
+      <level width="1547" preload="0" predecode="0" height="1547"/>
+      <level width="773" preload="0" predecode="0" height="773"/>
+      <level width="386" preload="1" predecode="1" height="386"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view pannorth="0" fovmode="0">
+      <start projection="4" tilt="0" fov="68.02" pan="94.31"/>
+      <flyin projection="9" tilt="-90" fov="170" pan="0"/>
+      <min tilt="-34.0084" fovpixel="2" pan="-180"/>
+      <max fovfisheye="360" tilt="34.0084" fovstereographic="270" fov="120" pan="180"/>
+    </view>
+    <userdata datetime="5/7/2022 11:17 AM" longitude="" heading="0" description="" comment="" info="" nodeid="node37" copyright="" source="" title="نقشه برجسته استان فارس آ" latitude="" customnodeid="" author="" tags="Pano2VR6"/>
+    <hotspots width="180" height="20" wordwrap="1">
+      <label width="180" background="1" backgroundcolor="0xffffff" textalpha="1" bordercolor="0x000000" borderalpha="1" backgroundalpha="1" enabled="1" borderradius="1" height="20" border="1" wordwrap="1" textcolor="0x000000"/>
+      <polystyle mode="0" backgroundcolor="0x0000ff" handcursor="1" bordercolor="0x0000ff" borderalpha="1" backgroundalpha="0.25098"/>
+      <hotspot tilt="14.62" description="" target="" id="Point01" url="{node40}" skinid="ht_node" title="میدان پژوهشکده معلم" pan="-239.45"/>
+      <hotspot tilt="10.43" description="" target="" id="Point02" url="{node38}" skinid="ht_node" title="نقشه برجسته استان فارس ب" pan="-146.73"/>
+    </hotspots>
+    <media/>
+    <transition blendtime="1" zoomafteroutfov="20" zoomout="0" zoomfov="20" type="crossdissolve" enabled="1" zoomspeed="2" zoomafterinfov="90" zoomoutpause="1" blendcolor="0x000000" zoomin="0" softedge="0"/>
+    <animation syncanimationwithvideo="0" animsequence="Animation01" useinautorotation="0"/>
+    <control dblclickfullscreen="0" speedwheel="1" invertcontrol="1" invertwheel="0" sensitivity="8" contextfullscreen="1" lockedkeyboard="0" contextvr="1" contextprojections="0" lockedmouse="0" hideabout="0" lockedkeyboardzoom="0" simulatemass="1" rubberband="0" lockedwheel="0"/>
+  </panorama>
+  <panorama id="node38">
+    <input width="1556" levelbias="0.400" levelbiashidpi="1.000" levelingroll="0" levelingpitch="0" leveltileurl="tiles/node38/cf_%c/l_%l/c_%x/tile_%y.jpg" leveltilesize="510" height="1556" overlap="1">
+      <level width="1556" preload="0" predecode="0" height="1556"/>
+      <level width="778" preload="0" predecode="0" height="778"/>
+      <level width="389" preload="1" predecode="1" height="389"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view pannorth="0" fovmode="0">
+      <start projection="4" tilt="0" fov="70" pan="0"/>
+      <flyin projection="9" tilt="-90" fov="170" pan="0"/>
+      <min tilt="-32.7433" fovpixel="2" pan="-180"/>
+      <max fovfisheye="360" tilt="32.7433" fovstereographic="270" fov="120" pan="180"/>
+    </view>
+    <userdata datetime="5/7/2022 11:19 AM" longitude="" heading="0" description="" comment="" info="" nodeid="node38" copyright="" source="" title="نقشه برجسته استان فارس ب" latitude="" customnodeid="" author="" tags="Pano2VR6"/>
+    <hotspots width="180" height="20" wordwrap="1">
+      <label width="180" background="1" backgroundcolor="0xffffff" textalpha="1" bordercolor="0x000000" borderalpha="1" backgroundalpha="1" enabled="1" borderradius="1" height="20" border="1" wordwrap="1" textcolor="0x000000"/>
+      <polystyle mode="0" backgroundcolor="0x0000ff" handcursor="1" bordercolor="0x0000ff" borderalpha="1" backgroundalpha="0.25098"/>
+      <hotspot tilt="16.73" description="" target="" id="Point01" url="{node40}" skinid="ht_node" title="میدان پژوهشکده معلم" pan="-82.23"/>
+      <hotspot tilt="14.35" description="" target="" id="Point02" url="{node37}" skinid="ht_node" title="نقشه برجسته استان فارس آ" pan="-265.57"/>
+    </hotspots>
+    <media/>
+    <transition blendtime="1" zoomafteroutfov="20" zoomout="0" zoomfov="20" type="crossdissolve" enabled="1" zoomspeed="2" zoomafterinfov="90" zoomoutpause="1" blendcolor="0x000000" zoomin="0" softedge="0"/>
+    <animation syncanimationwithvideo="0" animsequence="Animation01" useinautorotation="0"/>
+    <control dblclickfullscreen="0" speedwheel="1" invertcontrol="1" invertwheel="0" sensitivity="8" contextfullscreen="1" lockedkeyboard="0" contextvr="1" contextprojections="0" lockedmouse="0" hideabout="0" lockedkeyboardzoom="0" simulatemass="1" rubberband="0" lockedwheel="0"/>
+  </panorama>
+  <panorama id="node40">
+    <input width="1540" levelbias="0.400" levelbiashidpi="1.000" levelingroll="0" levelingpitch="0" leveltileurl="tiles/node40/cf_%c/l_%l/c_%x/tile_%y.jpg" leveltilesize="510" height="1540" overlap="1">
+      <level width="1540" preload="0" predecode="0" height="1540"/>
+      <level width="770" preload="0" predecode="0" height="770"/>
+      <level width="385" preload="1" predecode="1" height="385"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view pannorth="0" fovmode="0">
+      <start projection="4" tilt="0" fov="68.54" pan="-159.51"/>
+      <flyin projection="4" tilt="0" fov="68.54" pan="-167.2"/>
+      <min tilt="-34.2689" fovpixel="2" pan="-180"/>
+      <max fovfisheye="360" tilt="34.2689" fovstereographic="270" fov="120" pan="180"/>
+    </view>
+    <userdata datetime="5/7/2022 11:29 AM" longitude="" heading="0" description="" comment="" info="" nodeid="node40" copyright="" source="" title="میدان پژوهشکده معلم" latitude="" customnodeid="" author="" tags="Pano2VR6"/>
+    <hotspots width="180" height="20" wordwrap="1">
+      <label width="180" background="1" backgroundcolor="0xffffff" textalpha="1" bordercolor="0x000000" borderalpha="1" backgroundalpha="1" enabled="1" borderradius="1" height="20" border="1" wordwrap="1" textcolor="0x000000"/>
+      <polystyle mode="0" backgroundcolor="0x0000ff" handcursor="1" bordercolor="0x0000ff" borderalpha="1" backgroundalpha="0.25098"/>
+      <hotspot tilt="-1.3" description="" target="" id="Point02" url="{node46}" skinid="ht_node" title="سالن ورودی ساختمان شماره 4" pan="-3.95"/>
+      <hotspot tilt="-0.25" description="" target="" id="Point03" url="{node44}" skinid="ht_node" title="آزمایشگاه سلولهای بنیادی" pan="-41.4"/>
+      <hotspot tilt="-3.02" description="" target="" id="Point04" url="{node43}" skinid="ht_node" title="کتاخانه پژوهشکده معلم آ" pan="-145.26"/>
+      <hotspot tilt="-2" description="" target="" id="Point05" url="{node37}" skinid="ht_node" title="نقشه برجسته استان فارس آ" pan="-249.59"/>
+      <hotspot tilt="-3.72" description="" target="" id="Point01" url="{node47}" skinid="ht_node" title="" pan="-322.16"/>
+    </hotspots>
+    <media/>
+    <transition blendtime="1" zoomafteroutfov="20" zoomout="0" zoomfov="20" type="crossdissolve" enabled="1" zoomspeed="2" zoomafterinfov="90" zoomoutpause="1" blendcolor="0x000000" zoomin="0" softedge="0"/>
+    <animation syncanimationwithvideo="0" animsequence="Animation01" useinautorotation="0"/>
+    <control dblclickfullscreen="0" speedwheel="1" invertcontrol="1" invertwheel="0" sensitivity="8" contextfullscreen="1" lockedkeyboard="0" contextvr="1" contextprojections="0" lockedmouse="0" hideabout="0" lockedkeyboardzoom="0" simulatemass="1" rubberband="0" lockedwheel="0"/>
+  </panorama>
+  <panorama id="node41">
+    <input width="1548" levelbias="0.400" levelbiashidpi="1.000" levelingroll="0" levelingpitch="0" leveltileurl="tiles/node41/cf_%c/l_%l/c_%x/tile_%y.jpg" leveltilesize="510" height="1548" overlap="1">
+      <level width="1548" preload="0" predecode="0" height="1548"/>
+      <level width="774" preload="0" predecode="0" height="774"/>
+      <level width="387" preload="1" predecode="1" height="387"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view pannorth="0" fovmode="0">
+      <start projection="4" tilt="0" fov="70" pan="0"/>
+      <flyin projection="9" tilt="-90" fov="170" pan="0"/>
+      <min tilt="-33.8511" fovpixel="2" pan="-180"/>
+      <max fovfisheye="360" tilt="33.8511" fovstereographic="270" fov="120" pan="180"/>
+    </view>
+    <userdata datetime="5/7/2022 11:36 AM" longitude="" heading="0" description="" comment="" info="" nodeid="node41" copyright="" source="" title="کتاخانه پژوهشکده معلم ب" latitude="" customnodeid="" author="" tags="Pano2VR6"/>
+    <hotspots width="180" height="20" wordwrap="1">
+      <label width="180" background="1" backgroundcolor="0xffffff" textalpha="1" bordercolor="0x000000" borderalpha="1" backgroundalpha="1" enabled="1" borderradius="1" height="20" border="1" wordwrap="1" textcolor="0x000000"/>
+      <polystyle mode="0" backgroundcolor="0x0000ff" handcursor="1" bordercolor="0x0000ff" borderalpha="1" backgroundalpha="0.25098"/>
+      <hotspot tilt="-3.46" description="" target="" id="Point01" url="{node40}" skinid="ht_node" title="میدان پژوهشکده معلم" pan="-51.28"/>
+      <hotspot tilt="-7.02" description="" target="" id="Point02" url="{node43}" skinid="ht_node" title="کتاخانه پژوهشکده معلم آ" pan="-355.42"/>
+    </hotspots>
+    <media/>
+    <transition blendtime="1" zoomafteroutfov="20" zoomout="0" zoomfov="20" type="crossdissolve" enabled="1" zoomspeed="2" zoomafterinfov="90" zoomoutpause="1" blendcolor="0x000000" zoomin="0" softedge="0"/>
+    <animation syncanimationwithvideo="0" animsequence="Animation01" useinautorotation="0"/>
+    <control dblclickfullscreen="0" speedwheel="1" invertcontrol="1" invertwheel="0" sensitivity="8" contextfullscreen="1" lockedkeyboard="0" contextvr="1" contextprojections="0" lockedmouse="0" hideabout="0" lockedkeyboardzoom="0" simulatemass="1" rubberband="0" lockedwheel="0"/>
+  </panorama>
+  <panorama id="node42">
+    <input width="1636" levelbias="0.400" levelbiashidpi="1.000" levelingroll="0" levelingpitch="0" leveltileurl="tiles/node42/cf_%c/l_%l/c_%x/tile_%y.jpg" leveltilesize="510" height="1636" overlap="1">
+      <level width="1636" preload="0" predecode="0" height="1636"/>
+      <level width="818" preload="0" predecode="0" height="818"/>
+      <level width="409" preload="1" predecode="1" height="409"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view pannorth="0" fovmode="0">
+      <start projection="4" tilt="0" fov="70" pan="0"/>
+      <flyin projection="9" tilt="-90" fov="170" pan="0"/>
+      <min tilt="-33.256" fovpixel="2" pan="-180"/>
+      <max fovfisheye="360" tilt="33.256" fovstereographic="270" fov="120" pan="180"/>
+    </view>
+    <userdata datetime="5/7/2022 11:39 AM" longitude="" heading="0" description="" comment="" info="" nodeid="node42" copyright="" source="" title="مخزن کتابخانه پژوهشکده معلم" latitude="" customnodeid="" author="" tags="Pano2VR6"/>
+    <hotspots width="180" height="20" wordwrap="1">
+      <label width="180" background="1" backgroundcolor="0xffffff" textalpha="1" bordercolor="0x000000" borderalpha="1" backgroundalpha="1" enabled="1" borderradius="1" height="20" border="1" wordwrap="1" textcolor="0x000000"/>
+      <polystyle mode="0" backgroundcolor="0x0000ff" handcursor="1" bordercolor="0x0000ff" borderalpha="1" backgroundalpha="0.25098"/>
+      <hotspot tilt="-5.71" description="" target="" id="Point01" url="{node43}" skinid="ht_node" title="کتاخانه پژوهشکده معلم آ" pan="-246.02"/>
+    </hotspots>
+    <media/>
+    <transition blendtime="1" zoomafteroutfov="20" zoomout="0" zoomfov="20" type="crossdissolve" enabled="1" zoomspeed="2" zoomafterinfov="90" zoomoutpause="1" blendcolor="0x000000" zoomin="0" softedge="0"/>
+    <animation syncanimationwithvideo="0" animsequence="Animation01" useinautorotation="0"/>
+    <control dblclickfullscreen="0" speedwheel="1" invertcontrol="1" invertwheel="0" sensitivity="8" contextfullscreen="1" lockedkeyboard="0" contextvr="1" contextprojections="0" lockedmouse="0" hideabout="0" lockedkeyboardzoom="0" simulatemass="1" rubberband="0" lockedwheel="0"/>
+  </panorama>
+  <panorama id="node43">
+    <input width="1552" levelbias="0.400" levelbiashidpi="1.000" levelingroll="0" levelingpitch="0" leveltileurl="tiles/node43/cf_%c/l_%l/c_%x/tile_%y.jpg" leveltilesize="510" height="1552" overlap="1">
+      <level width="1552" preload="0" predecode="0" height="1552"/>
+      <level width="776" preload="0" predecode="0" height="776"/>
+      <level width="388" preload="1" predecode="1" height="388"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view pannorth="0" fovmode="0">
+      <start projection="4" tilt="0" fov="68.78" pan="125.91"/>
+      <flyin projection="9" tilt="-90" fov="170" pan="0"/>
+      <min tilt="-34.3906" fovpixel="2" pan="-180"/>
+      <max fovfisheye="360" tilt="34.3906" fovstereographic="270" fov="120" pan="180"/>
+    </view>
+    <userdata datetime="5/7/2022 11:42 AM" longitude="" heading="0" description="" comment="" info="" nodeid="node43" copyright="" source="" title="کتاخانه پژوهشکده معلم آ" latitude="" customnodeid="" author="" tags="Pano2VR6"/>
+    <hotspots width="180" height="20" wordwrap="1">
+      <label width="180" background="1" backgroundcolor="0xffffff" textalpha="1" bordercolor="0x000000" borderalpha="1" backgroundalpha="1" enabled="1" borderradius="1" height="20" border="1" wordwrap="1" textcolor="0x000000"/>
+      <polystyle mode="0" backgroundcolor="0x0000ff" handcursor="1" bordercolor="0x0000ff" borderalpha="1" backgroundalpha="0.25098"/>
+      <hotspot tilt="-5.23" description="" target="" id="Point01" url="{node42}" skinid="ht_node" title="مخزن کتابخانه پژوهشکده معلم" pan="-46.17"/>
+      <hotspot tilt="-4.46" description="" target="" id="Point02" url="{node40}" skinid="ht_node" title="میدان پژوهشکده معلم" pan="-173.39"/>
+      <hotspot tilt="-4.9" description="" target="" id="Point03" url="{node41}" skinid="ht_node" title="کتاخانه پژوهشکده معلم ب" pan="-273.07"/>
+    </hotspots>
+    <media/>
+    <transition blendtime="1" zoomafteroutfov="20" zoomout="0" zoomfov="20" type="crossdissolve" enabled="1" zoomspeed="2" zoomafterinfov="90" zoomoutpause="1" blendcolor="0x000000" zoomin="0" softedge="0"/>
+    <animation syncanimationwithvideo="0" animsequence="Animation01" useinautorotation="0"/>
+    <control dblclickfullscreen="0" speedwheel="1" invertcontrol="1" invertwheel="0" sensitivity="8" contextfullscreen="1" lockedkeyboard="0" contextvr="1" contextprojections="0" lockedmouse="0" hideabout="0" lockedkeyboardzoom="0" simulatemass="1" rubberband="0" lockedwheel="0"/>
+  </panorama>
+  <panorama id="node44">
+    <input width="1577" levelbias="0.400" levelbiashidpi="1.000" levelingroll="0" levelingpitch="0" leveltileurl="tiles/node44/cf_%c/l_%l/c_%x/tile_%y.jpg" leveltilesize="510" height="1577" overlap="1">
+      <level width="1577" preload="0" predecode="0" height="1577"/>
+      <level width="788" preload="0" predecode="0" height="788"/>
+      <level width="394" preload="1" predecode="1" height="394"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view pannorth="0" fovmode="0">
+      <start projection="4" tilt="0" fov="70" pan="0"/>
+      <flyin projection="9" tilt="-90" fov="170" pan="0"/>
+      <min tilt="-33.4802" fovpixel="2" pan="-180"/>
+      <max fovfisheye="360" tilt="33.4802" fovstereographic="270" fov="120" pan="180"/>
+    </view>
+    <userdata datetime="5/7/2022 11:49 AM" longitude="" heading="0" description="" comment="" info="" nodeid="node44" copyright="" source="" title="آزمایشگاه سلولهای بنیادی" latitude="" customnodeid="" author="" tags="Pano2VR6"/>
+    <hotspots width="180" height="20" wordwrap="1">
+      <label width="180" background="1" backgroundcolor="0xffffff" textalpha="1" bordercolor="0x000000" borderalpha="1" backgroundalpha="1" enabled="1" borderradius="1" height="20" border="1" wordwrap="1" textcolor="0x000000"/>
+      <polystyle mode="0" backgroundcolor="0x0000ff" handcursor="1" bordercolor="0x0000ff" borderalpha="1" backgroundalpha="0.25098"/>
+      <hotspot tilt="-4.19" description="" target="" id="Point01" url="{node40}" skinid="ht_node" title="میدان پژوهشکده معلم" pan="-323.97"/>
+    </hotspots>
+    <media/>
+    <transition blendtime="1" zoomafteroutfov="20" zoomout="0" zoomfov="20" type="crossdissolve" enabled="1" zoomspeed="2" zoomafterinfov="90" zoomoutpause="1" blendcolor="0x000000" zoomin="0" softedge="0"/>
+    <animation syncanimationwithvideo="0" animsequence="Animation01" useinautorotation="0"/>
+    <control dblclickfullscreen="0" speedwheel="1" invertcontrol="1" invertwheel="0" sensitivity="8" contextfullscreen="1" lockedkeyboard="0" contextvr="1" contextprojections="0" lockedmouse="0" hideabout="0" lockedkeyboardzoom="0" simulatemass="1" rubberband="0" lockedwheel="0"/>
+  </panorama>
+  <panorama id="node46">
+    <input width="1563" levelbias="0.400" levelbiashidpi="1.000" levelingroll="0" levelingpitch="0" leveltileurl="tiles/node46/cf_%c/l_%l/c_%x/tile_%y.jpg" leveltilesize="510" height="1563" overlap="1">
+      <level width="1563" preload="0" predecode="0" height="1563"/>
+      <level width="781" preload="0" predecode="0" height="781"/>
+      <level width="390" preload="1" predecode="1" height="390"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view pannorth="0" fovmode="0">
+      <start projection="4" tilt="0" fov="70" pan="0"/>
+      <flyin projection="9" tilt="-90" fov="170" pan="0"/>
+      <min tilt="-34.1319" fovpixel="2" pan="-180"/>
+      <max fovfisheye="360" tilt="34.1319" fovstereographic="270" fov="120" pan="180"/>
+    </view>
+    <userdata datetime="5/7/2022 12:27 PM" longitude="" heading="0" description="" comment="" info="" nodeid="node46" copyright="" source="" title="سالن ورودی ساختمان شماره 4" latitude="" customnodeid="" author="" tags="Pano2VR6"/>
+    <hotspots width="180" height="20" wordwrap="1">
+      <label width="180" background="1" backgroundcolor="0xffffff" textalpha="1" bordercolor="0x000000" borderalpha="1" backgroundalpha="1" enabled="1" borderradius="1" height="20" border="1" wordwrap="1" textcolor="0x000000"/>
+      <polystyle mode="0" backgroundcolor="0x0000ff" handcursor="1" bordercolor="0x0000ff" borderalpha="1" backgroundalpha="0.25098"/>
+      <hotspot tilt="-4.64" description="" target="" id="Point01" url="{node40}" skinid="ht_node" title="میدان پژوهشکده معلم" pan="-227.16"/>
+    </hotspots>
+    <media/>
+    <transition blendtime="1" zoomafteroutfov="20" zoomout="0" zoomfov="20" type="crossdissolve" enabled="1" zoomspeed="2" zoomafterinfov="90" zoomoutpause="1" blendcolor="0x000000" zoomin="0" softedge="0"/>
+    <animation syncanimationwithvideo="0" animsequence="Animation01" useinautorotation="0"/>
+    <control dblclickfullscreen="0" speedwheel="1" invertcontrol="1" invertwheel="0" sensitivity="8" contextfullscreen="1" lockedkeyboard="0" contextvr="1" contextprojections="0" lockedmouse="0" hideabout="0" lockedkeyboardzoom="0" simulatemass="1" rubberband="0" lockedwheel="0"/>
+  </panorama>
+  <panorama id="node48">
+    <input width="1280" levelbias="0.400" levelbiashidpi="1.000" levelingroll="0" levelingpitch="0" flat="1" leveltileurl="tiles/node48/cf_%c/l_%l/c_%x/tile_%y.jpg" leveltilesize="510" height="720" overlap="1" cylinder="1">
+      <level width="1280" preload="0" predecode="0" height="720"/>
+      <level width="640" preload="0" predecode="0" height="360"/>
+      <level width="320" preload="1" predecode="1" height="180"/>
+      <preview color="0x808080"/>
+    </input>
+    <view pannorth="0" fovmode="0">
+      <start projection="4" tilt="0" fov="70" pan="0"/>
+      <flyin projection="9" tilt="-90" fov="170" pan="0"/>
+      <min tilt="-90" fovpixel="2" pan="0"/>
+      <max fovfisheye="360" tilt="90" fovstereographic="270" scaletofit="0" fov="120" pan="360"/>
+    </view>
+    <userdata datetime="5/22/2022 2:07 PM" longitude="" heading="0" description="" comment="" info="" nodeid="node48" copyright="" source="" title="تصویر هوایی محل احداث دانشگاه فرهنگیان (1)" latitude="" customnodeid="" author="" tags="Program Files"/>
+    <hotspots width="180" height="20" wordwrap="1">
+      <label width="180" background="1" backgroundcolor="0xffffff" textalpha="1" bordercolor="0x000000" borderalpha="1" backgroundalpha="1" enabled="1" borderradius="1" height="20" border="1" wordwrap="1" textcolor="0x000000"/>
+      <polystyle mode="0" backgroundcolor="0x0000ff" handcursor="1" bordercolor="0x0000ff" borderalpha="1" backgroundalpha="0.25098"/>
+      <polyhotspot description="" target="" id="Poly01" url="{node49}" title="تصویر هوایی محل احداث دانشگاه فرهنگیان (2)">
+        <polystring>16.57/31.03|42.93/30.8|42.93/11.9|17.73/11.9</polystring>
+      </polyhotspot>
+    </hotspots>
+    <media/>
+    <transition blendtime="1" zoomafteroutfov="20" zoomout="0" zoomfov="20" type="crossdissolve" enabled="1" zoomspeed="2" zoomafterinfov="90" zoomoutpause="1" blendcolor="0x000000" zoomin="0" softedge="0"/>
+    <animation syncanimationwithvideo="0" animsequence="Animation01" useinautorotation="0"/>
+    <control dblclickfullscreen="0" speedwheel="1" invertcontrol="1" invertwheel="0" sensitivity="8" contextfullscreen="1" lockedkeyboard="0" contextvr="1" contextprojections="0" lockedmouse="0" hideabout="0" lockedkeyboardzoom="0" simulatemass="1" rubberband="0" lockedwheel="0"/>
+  </panorama>
+  <panorama id="node49">
+    <input width="1280" levelbias="0.400" levelbiashidpi="1.000" levelingroll="0" levelingpitch="0" flat="1" leveltileurl="tiles/node49/cf_%c/l_%l/c_%x/tile_%y.jpg" leveltilesize="510" height="720" overlap="1" cylinder="1">
+      <level width="1280" preload="0" predecode="0" height="720"/>
+      <level width="640" preload="0" predecode="0" height="360"/>
+      <level width="320" preload="1" predecode="1" height="180"/>
+      <preview color="0x808080"/>
+    </input>
+    <view pannorth="0" fovmode="0">
+      <start projection="4" tilt="0" fov="70" pan="0"/>
+      <flyin projection="9" tilt="-90" fov="170" pan="0"/>
+      <min tilt="-90" fovpixel="2" pan="0"/>
+      <max fovfisheye="360" tilt="90" fovstereographic="270" scaletofit="0" fov="120" pan="360"/>
+    </view>
+    <userdata datetime="5/22/2022 2:07 PM" longitude="" heading="0" description="" comment="" info="" nodeid="node49" copyright="" source="" title="تصویر هوایی محل احداث دانشگاه فرهنگیان (2)" latitude="" customnodeid="" author="" tags="Program Files"/>
+    <hotspots width="180" height="20" wordwrap="1">
+      <label width="180" background="1" backgroundcolor="0xffffff" textalpha="1" bordercolor="0x000000" borderalpha="1" backgroundalpha="1" enabled="1" borderradius="1" height="20" border="1" wordwrap="1" textcolor="0x000000"/>
+      <polystyle mode="0" backgroundcolor="0x0000ff" handcursor="1" bordercolor="0x0000ff" borderalpha="1" backgroundalpha="0.25098"/>
+      <polyhotspot description="" target="" id="Poly01" url="{node50}" title="تصویر هوایی محل احداث دانشگاه فرهنگیان (3)">
+        <polystring>23.38/-1.62|48.61/-1.62|47.92/-20.83|22.92/-20.6</polystring>
+      </polyhotspot>
+    </hotspots>
+    <media/>
+    <transition blendtime="1" zoomafteroutfov="20" zoomout="0" zoomfov="20" type="crossdissolve" enabled="1" zoomspeed="2" zoomafterinfov="90" zoomoutpause="1" blendcolor="0x000000" zoomin="0" softedge="0"/>
+    <animation syncanimationwithvideo="0" animsequence="Animation01" useinautorotation="0"/>
+    <control dblclickfullscreen="0" speedwheel="1" invertcontrol="1" invertwheel="0" sensitivity="8" contextfullscreen="1" lockedkeyboard="0" contextvr="1" contextprojections="0" lockedmouse="0" hideabout="0" lockedkeyboardzoom="0" simulatemass="1" rubberband="0" lockedwheel="0"/>
+  </panorama>
+  <panorama id="node50">
+    <input width="1280" levelbias="0.400" levelbiashidpi="1.000" levelingroll="0" levelingpitch="0" flat="1" leveltileurl="tiles/node50/cf_%c/l_%l/c_%x/tile_%y.jpg" leveltilesize="510" height="720" overlap="1" cylinder="1">
+      <level width="1280" preload="0" predecode="0" height="720"/>
+      <level width="640" preload="0" predecode="0" height="360"/>
+      <level width="320" preload="1" predecode="1" height="180"/>
+      <preview color="0x808080"/>
+    </input>
+    <view pannorth="0" fovmode="0">
+      <start projection="4" tilt="0" fov="70" pan="0"/>
+      <flyin projection="9" tilt="-90" fov="170" pan="0"/>
+      <min tilt="-90" fovpixel="2" pan="0"/>
+      <max fovfisheye="360" tilt="90" fovstereographic="270" scaletofit="0" fov="120" pan="360"/>
+    </view>
+    <userdata datetime="5/22/2022 1:58 PM" longitude="" heading="0" description="" comment="" info="" nodeid="node50" copyright="" source="" title="تصویر هوایی محل احداث دانشگاه فرهنگیان (3)" latitude="" customnodeid="" author="" tags="Program Files"/>
+    <hotspots width="180" height="20" wordwrap="1">
+      <label width="180" background="1" backgroundcolor="0xffffff" textalpha="1" bordercolor="0x000000" borderalpha="1" backgroundalpha="1" enabled="1" borderradius="1" height="20" border="1" wordwrap="1" textcolor="0x000000"/>
+      <polystyle mode="0" backgroundcolor="0x0000ff" handcursor="1" bordercolor="0x0000ff" borderalpha="1" backgroundalpha="0.25098"/>
+      <polyhotspot description="" target="" id="Poly01" url="{node51}" title="تصویر هوایی محل احداث دانشگاه فرهنگیان (4)">
+        <polystring>29.86/14.58|55.32/14.81|55.09/-4.17|29.86/-4.17</polystring>
+      </polyhotspot>
+    </hotspots>
+    <media/>
+    <transition blendtime="1" zoomafteroutfov="20" zoomout="0" zoomfov="20" type="crossdissolve" enabled="1" zoomspeed="2" zoomafterinfov="90" zoomoutpause="1" blendcolor="0x000000" zoomin="0" softedge="0"/>
+    <animation syncanimationwithvideo="0" animsequence="Animation01" useinautorotation="0"/>
+    <control dblclickfullscreen="0" speedwheel="1" invertcontrol="1" invertwheel="0" sensitivity="8" contextfullscreen="1" lockedkeyboard="0" contextvr="1" contextprojections="0" lockedmouse="0" hideabout="0" lockedkeyboardzoom="0" simulatemass="1" rubberband="0" lockedwheel="0"/>
+  </panorama>
+  <panorama id="node51">
+    <input width="1280" levelbias="0.400" levelbiashidpi="1.000" levelingroll="0" levelingpitch="0" flat="1" leveltileurl="tiles/node51/cf_%c/l_%l/c_%x/tile_%y.jpg" leveltilesize="510" height="720" overlap="1" cylinder="1">
+      <level width="1280" preload="0" predecode="0" height="720"/>
+      <level width="640" preload="0" predecode="0" height="360"/>
+      <level width="320" preload="1" predecode="1" height="180"/>
+      <preview color="0x808080"/>
+    </input>
+    <view pannorth="0" fovmode="0">
+      <start projection="4" tilt="0" fov="70" pan="0"/>
+      <flyin projection="9" tilt="-90" fov="170" pan="0"/>
+      <min tilt="-90" fovpixel="2" pan="0"/>
+      <max fovfisheye="360" tilt="90" fovstereographic="270" scaletofit="0" fov="120" pan="360"/>
+    </view>
+    <userdata datetime="5/22/2022 1:52 PM" longitude="" heading="0" description="" comment="" info="" nodeid="node51" copyright="" source="" title="تصویر هوایی محل احداث دانشگاه فرهنگیان (4)" latitude="" customnodeid="" author="" tags="Program Files"/>
+    <hotspots width="180" height="20" wordwrap="1">
+      <label width="180" background="1" backgroundcolor="0xffffff" textalpha="1" bordercolor="0x000000" borderalpha="1" backgroundalpha="1" enabled="1" borderradius="1" height="20" border="1" wordwrap="1" textcolor="0x000000"/>
+      <polystyle mode="0" backgroundcolor="0x0000ff" handcursor="1" bordercolor="0x0000ff" borderalpha="1" backgroundalpha="0.25098"/>
+      <hotspot tilt="-7.04" description="" target="" id="Point01" url="{node35}" skinid="ht_node" title="محل احداث دانشگاه فرهنگیان آ (کنار بزرگراه حسینی الهاشمی)" pan="20.67"/>
+      <polyhotspot description="" target="" id="Poly01" url="{node52}" title="منو اصلی">
+        <polystring>-10.27/43.71|10.02/43.86|9.88/31.71|-10.27/31.85</polystring>
+      </polyhotspot>
+    </hotspots>
+    <media/>
+    <transition blendtime="1" zoomafteroutfov="20" zoomout="0" zoomfov="20" type="crossdissolve" enabled="1" zoomspeed="2" zoomafterinfov="90" zoomoutpause="1" blendcolor="0x000000" zoomin="0" softedge="0"/>
+    <animation syncanimationwithvideo="0" animsequence="Animation01" useinautorotation="0"/>
+    <control dblclickfullscreen="0" speedwheel="1" invertcontrol="1" invertwheel="0" sensitivity="8" contextfullscreen="1" lockedkeyboard="0" contextvr="1" contextprojections="0" lockedmouse="0" hideabout="0" lockedkeyboardzoom="0" simulatemass="1" rubberband="0" lockedwheel="0"/>
+  </panorama>
+  <panorama id="node35">
+    <input width="1788" levelbias="0.400" levelbiashidpi="1.000" levelingroll="0" levelingpitch="0" leveltileurl="tiles/node35/cf_%c/l_%l/c_%x/tile_%y.jpg" leveltilesize="510" height="1788" overlap="1">
+      <level width="1788" preload="0" predecode="0" height="1788"/>
+      <level width="894" preload="0" predecode="0" height="894"/>
+      <level width="447" preload="1" predecode="1" height="447"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view pannorth="0" fovmode="0">
+      <start projection="4" tilt="0" fov="57.07" pan="52.1"/>
+      <flyin projection="9" tilt="-90" fov="170" pan="0"/>
+      <min tilt="-28.5342" fovpixel="2" pan="-180"/>
+      <max fovfisheye="360" tilt="28.5342" fovstereographic="270" fov="120" pan="180"/>
+    </view>
+    <userdata datetime="5/9/2022 1:14 PM" longitude="" heading="0" description="" comment="" info="" nodeid="node35" copyright="" source="" title="محل احداث دانشگاه فرهنگیان آ (کنار بزرگراه حسینی الهاشمی)" latitude="" customnodeid="" author="" tags="Pano2VR6"/>
+    <hotspots width="180" height="20" wordwrap="1">
+      <label width="180" background="1" backgroundcolor="0xffffff" textalpha="1" bordercolor="0x000000" borderalpha="1" backgroundalpha="1" enabled="1" borderradius="1" height="20" border="1" wordwrap="1" textcolor="0x000000"/>
+      <polystyle mode="0" backgroundcolor="0x0000ff" handcursor="1" bordercolor="0x0000ff" borderalpha="1" backgroundalpha="0.25098"/>
+      <hotspot tilt="-7.38" description="" target="" id="Point01" url="{node36}" skinid="ht_node" title="محل احداث دانشگاه فرهنگیان ب (کنار بزرگراه حسینی الهاشمی)" pan="-23.38"/>
+      <hotspot tilt="-4.76" description="" target="" id="Point02" url="{node51}" skinid="ht_node" title="تصویر هوایی محل احداث دانشگاه فرهنگیان (4)" pan="-91.76"/>
+    </hotspots>
+    <media/>
+    <transition blendtime="1" zoomafteroutfov="20" zoomout="0" zoomfov="20" type="crossdissolve" enabled="1" zoomspeed="2" zoomafterinfov="90" zoomoutpause="1" blendcolor="0x000000" zoomin="0" softedge="0"/>
+    <animation syncanimationwithvideo="0" animsequence="Animation01" useinautorotation="0"/>
+    <control dblclickfullscreen="0" speedwheel="1" invertcontrol="1" invertwheel="0" sensitivity="8" contextfullscreen="1" lockedkeyboard="0" contextvr="1" contextprojections="0" lockedmouse="0" hideabout="0" lockedkeyboardzoom="0" simulatemass="1" rubberband="0" lockedwheel="0"/>
+  </panorama>
+  <panorama id="node36">
+    <input width="1793" levelbias="0.400" levelbiashidpi="1.000" levelingroll="0" levelingpitch="0" leveltileurl="tiles/node36/cf_%c/l_%l/c_%x/tile_%y.jpg" leveltilesize="510" height="1793" overlap="1">
+      <level width="1793" preload="0" predecode="0" height="1793"/>
+      <level width="896" preload="0" predecode="0" height="896"/>
+      <level width="448" preload="1" predecode="1" height="448"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view pannorth="0" fovmode="0">
+      <start projection="4" tilt="0" fov="56.66" pan="-150.07"/>
+      <flyin projection="9" tilt="-90" fov="170" pan="0"/>
+      <min tilt="-28.3312" fovpixel="2" pan="-180"/>
+      <max fovfisheye="360" tilt="28.3312" fovstereographic="270" fov="120" pan="180"/>
+    </view>
+    <userdata datetime="5/9/2022 1:20 PM" longitude="" heading="0" description="" comment="" info="" nodeid="node36" copyright="" source="" title="محل احداث دانشگاه فرهنگیان ب (کنار بزرگراه حسینی الهاشمی)" latitude="" customnodeid="" author="" tags="Pano2VR6"/>
+    <hotspots width="180" height="20" wordwrap="1">
+      <label width="180" background="1" backgroundcolor="0xffffff" textalpha="1" bordercolor="0x000000" borderalpha="1" backgroundalpha="1" enabled="1" borderradius="1" height="20" border="1" wordwrap="1" textcolor="0x000000"/>
+      <polystyle mode="0" backgroundcolor="0x0000ff" handcursor="1" bordercolor="0x0000ff" borderalpha="1" backgroundalpha="0.25098"/>
+      <hotspot tilt="-0.79" description="" target="" id="Point01" url="{node35}" skinid="ht_node" title="محل احداث دانشگاه فرهنگیان آ (کنار بزرگراه حسینی الهاشمی)" pan="-75.3"/>
+      <hotspot tilt="-0.71" description="" target="" id="Point02" url="{node51}" skinid="ht_node" title="تصویر هوایی محل احداث دانشگاه فرهنگیان (4)" pan="-32.83"/>
+    </hotspots>
+    <media/>
+    <transition blendtime="1" zoomafteroutfov="20" zoomout="0" zoomfov="20" type="crossdissolve" enabled="1" zoomspeed="2" zoomafterinfov="90" zoomoutpause="1" blendcolor="0x000000" zoomin="0" softedge="0"/>
+    <animation syncanimationwithvideo="0" animsequence="Animation01" useinautorotation="0"/>
+    <control dblclickfullscreen="0" speedwheel="1" invertcontrol="1" invertwheel="0" sensitivity="8" contextfullscreen="1" lockedkeyboard="0" contextvr="1" contextprojections="0" lockedmouse="0" hideabout="0" lockedkeyboardzoom="0" simulatemass="1" rubberband="0" lockedwheel="0"/>
+  </panorama>
+  <masternode>
+    <userdata datetime="" longitude="" heading="0" description="" comment="" info="" nodeid="master" copyright="" source="" title="" latitude="" customnodeid="" author="" tags=""/>
+  </masternode>
+</tour>
